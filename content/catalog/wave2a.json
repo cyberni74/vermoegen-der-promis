@@ -1,0 +1,188 @@
+{
+  "articles": [
+    {
+      "slug": "cond-sty",
+      "targetMd": "content/articles/cond-sty-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "3 bis 8 Millionen Euro",
+      "illustrativeOnly": true,
+      "heroFile": "drawing-sketch-illustrative.jpg",
+      "person": "Christoph Brückner",
+      "alternateNames": ["Cond Sty", "Condsty", "Condor"],
+      "related": ["younes-zarou", "noelgoescrazy", "kingchris", "nic-kaufmann"],
+      "images": [
+        {
+          "file": "drawing-sketch-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true,
+          "alt": "Cond Sty Vermögen 2026 – Zeichnungen TikTok Creator Symbolbild",
+          "credit": "Unsplash License. Symbolbild, nicht Christoph Brückner.",
+          "sourceUrl": "https://unsplash.com/photos/1513364776144-60967b0f800f"
+        },
+        {
+          "file": "smartphone-filming-desk.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Smartphone am Schreibtisch, nicht Cond Sty",
+          "credit": "Unsplash License. Symbolbild, nicht die Person."
+        },
+        {
+          "file": "austria-nature-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Landschaft, nicht Cond Sty",
+          "credit": "Unsplash License. Symbolbild zur Herkunft, nicht die Person."
+        }
+      ]
+    },
+    {
+      "slug": "kingchris",
+      "targetMd": "content/articles/kingchris-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "2 bis 6 Millionen Euro",
+      "illustrativeOnly": true,
+      "heroFile": "gaming-setup-illustrative.jpg",
+      "person": "KingChris",
+      "alternateNames": ["itskingchris"],
+      "related": ["younes-zarou", "noelgoescrazy", "cond-sty", "nic-kaufmann"],
+      "images": [
+        {
+          "file": "gaming-setup-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true,
+          "alt": "KingChris Vermögen 2026 – Anime Gaming TikTok Creator Visual",
+          "credit": "Unsplash License. Symbolbild Gaming-Setup, nicht KingChris."
+        },
+        {
+          "file": "smartphone-creator-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Smartphone, nicht KingChris",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "convention-crowd-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Publikum, nicht KingChris",
+          "credit": "Unsplash License. Symbolbild."
+        }
+      ]
+    },
+    {
+      "slug": "nic-kaufmann",
+      "targetMd": "content/articles/nic-kaufmann-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "2,5 bis 6 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "nic-kaufmann-republica-2025.jpg",
+      "person": "Nic Kaufmann",
+      "alternateNames": [],
+      "related": ["younes-zarou", "kingchris", "elevator-boys", "cond-sty"],
+      "images": [
+        {
+          "file": "nic-kaufmann-republica-2025.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "Nic Kaufmann Vermögen 2026 – Fashion Influencer Portrait re:publica",
+          "credit": "Leonhard Lenz (GPSLeo)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nic_Kaufmann_at_Republica25_2025-05-26_04.jpg"
+        },
+        {
+          "file": "nic-kaufmann-republica-2025-alt.jpg",
+          "placement": "mid",
+          "illustrative": false,
+          "alt": "Nic Kaufmann auf der re:publica 2025",
+          "credit": "Leonhard Lenz (GPSLeo)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nic_Kaufmann_at_Republica25_2025-05-26_01.jpg"
+        },
+        {
+          "file": "fashion-runway-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Laufsteg, nicht Nic Kaufmann",
+          "credit": "Unsplash License. Symbolbild Fashion, nicht die Person."
+        }
+      ]
+    },
+    {
+      "slug": "dagi-bee",
+      "targetMd": "content/articles/dagi-bee-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "5 bis 12 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "dagi-bee-1live-krone-2016.jpg",
+      "person": "Dagmar Kazakov",
+      "alternateNames": ["Dagi Bee"],
+      "related": ["bibis-beautypalace", "julia-beautx", "pamela-reif"],
+      "images": [
+        {
+          "file": "dagi-bee-1live-krone-2016.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "Dagi Bee Vermögen 2026 – Beauty YouTuberin 1LIVE Krone Portrait",
+          "caption": "Redaktionelles Porträt, 1LIVE Krone 2016",
+          "credit": "Raimond Spekking",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1LIVE_Krone_2016_-_1700_-_Roter_Teppich_-_Dagi_Bee-6285.jpg"
+        },
+        {
+          "file": "beauty-makeup-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Make-up, nicht Dagi Bee",
+          "credit": "Unsplash License. Symbolbild, kein Produktfoto."
+        },
+        {
+          "file": "youtube-studio-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Creator-Studio, nicht Dagi Bee",
+          "credit": "Unsplash License. Symbolbild."
+        }
+      ]
+    },
+    {
+      "slug": "nader-el-jindaoui",
+      "targetMd": "content/articles/nader-el-jindaoui-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "2 bis 5 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "nader-jindaoui-2023.jpg",
+      "person": "Nader El-Jindaoui",
+      "alternateNames": ["Nader Jindaoui"],
+      "related": ["montana-black", "herr-anwalt", "younes-zarou"],
+      "images": [
+        {
+          "file": "nader-jindaoui-2023.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "Nader El-Jindaoui Vermögen 2026 – Fußball Influencer Portrait",
+          "credit": "Metroit1984",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jindaoui2023.jpg"
+        },
+        {
+          "file": "football-pitch-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Fußballplatz, nicht Nader El-Jindaoui",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "sneakers-brand-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Sneaker, kein Markenprodukt und nicht Nader El-Jindaoui",
+          "credit": "Unsplash License. Symbolbild, kein Produktfoto."
+        }
+      ]
+    }
+  ]
+}
