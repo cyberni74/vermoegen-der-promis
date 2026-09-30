@@ -1,0 +1,420 @@
+{
+  "articles": [
+    {
+      "slug": "lena-mantler",
+      "targetMd": "content/articles/lena-mantler-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "1,5 bis 4 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "lisa-lena-sing-portrait.jpg",
+      "person": "Lena Mantler",
+      "alternateNames": ["Lisa und Lena", "Lisa & Lena"],
+      "related": ["noelgoescrazy", "younes-zarou", "elevator-boys", "kingchris"],
+      "images": [
+        {
+          "file": "lisa-lena-sing-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "Lena Mantler Vermögen 2026 – Lisa und Lena Musical.ly TikTok Portrait",
+          "credit": "9EkieraM1",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sing_Lisa_%26_Lena_(cropped).jpg"
+        },
+        {
+          "file": "smartphone-tiktok-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Smartphone, nicht Lena Mantler",
+          "credit": "Unsplash License. Symbolbild Kurzvideo, nicht die Person.",
+          "sourceUrl": "https://unsplash.com/photos/1611162616475-46b635cb6868"
+        },
+        {
+          "file": "dance-stage-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Tanzbühne, nicht Lena Mantler",
+          "credit": "Unsplash License. Symbolbild, nicht die Person.",
+          "sourceUrl": "https://unsplash.com/photos/1508700929628-666bc8bd84ea"
+        },
+        {
+          "file": "fashion-streetwear-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Streetwear, nicht Lena Mantler",
+          "credit": "Unsplash License. Symbolbild, kein Produktfoto."
+        }
+      ]
+    },
+    {
+      "slug": "melina-sophie",
+      "targetMd": "content/articles/melina-sophie-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "1 bis 3 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "melina-sophie-sing-portrait.jpg",
+      "person": "Melina Sophie Baumann",
+      "alternateNames": ["Melina Sophie"],
+      "related": ["dagi-bee", "julia-beautx", "bibis-beautypalace", "viktoriasarina"],
+      "images": [
+        {
+          "file": "melina-sophie-sing-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "Melina Sophie Vermögen 2026 – Lifestyle YouTuberin Portrait Sing",
+          "credit": "9EkieraM1",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sing_Melina_Sophie_Baumann_(1).jpg"
+        },
+        {
+          "file": "lifestyle-vlog-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Lifestyle, nicht Melina Sophie",
+          "credit": "Unsplash License. Symbolbild, nicht die Person."
+        },
+        {
+          "file": "youtube-creator-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Creator-Studio, nicht Melina Sophie",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "iceland-nature-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Landschaft, nicht Melina Sophie",
+          "credit": "Unsplash License. Symbolbild."
+        }
+      ]
+    },
+    {
+      "slug": "sophia-thiel",
+      "targetMd": "content/articles/sophia-thiel-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "2 bis 5 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "sophia-thiel-portrait.jpg",
+      "person": "Sophia Thiel",
+      "related": ["pamela-reif", "inscope21", "dagi-bee"],
+      "images": [
+        {
+          "file": "sophia-thiel-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "Sophia Thiel Vermögen 2026 – Fitness Influencerin Portrait",
+          "credit": "Anja Zeidler",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sophia_Thiel.jpg"
+        },
+        {
+          "file": "fitness-gym-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Fitnessstudio, nicht Sophia Thiel",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "healthy-food-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Ernährung, nicht Sophia Thiel",
+          "credit": "Unsplash License. Symbolbild, kein Produktfoto."
+        },
+        {
+          "file": "wellness-yoga-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Wellness, nicht Sophia Thiel",
+          "credit": "Unsplash License. Symbolbild."
+        }
+      ]
+    },
+    {
+      "slug": "inscope21",
+      "targetMd": "content/articles/inscope21-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "0,5 bis 2,5 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "inscope21-2016-portrait.jpg",
+      "person": "Nico Lazaridis",
+      "alternateNames": ["Inscope21", "Nicolas Lazaridis"],
+      "related": ["pamela-reif", "sophia-thiel", "montana-black", "handofblood"],
+      "images": [
+        {
+          "file": "inscope21-2016-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "Inscope21 Vermögen 2026 – Nico Lazaridis Fitness Creator Portrait",
+          "credit": "9EkieraM1",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inscope21_2016.jpg"
+        },
+        {
+          "file": "inscope21-sing-portrait.jpg",
+          "placement": "mid",
+          "illustrative": false,
+          "alt": "Inscope21 Vermögen 2026 – Nicolas Lazaridis Portrait Sing",
+          "credit": "9EkieraM1",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sing_Nicolas_Lazaridis_(Inscope21).jpg"
+        },
+        {
+          "file": "fitness-weights-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Fitness, nicht Inscope21",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "fashion-streetwear-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Streetwear, nicht Inscope21",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "youtube-creator-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Creator, nicht Inscope21",
+          "credit": "Unsplash License. Symbolbild."
+        }
+      ]
+    },
+    {
+      "slug": "unsympathischtv",
+      "targetMd": "content/articles/unsympathischtv-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "1,5 bis 4 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "sascha-hellinger-2019.png",
+      "person": "Jan-Sascha Hellinger",
+      "alternateNames": ["UnsympathischTV", "Sascha Hellinger"],
+      "related": ["rezo", "laserluca", "iblali", "gronkh"],
+      "images": [
+        {
+          "file": "sascha-hellinger-2019.png",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "UnsympathischTV Vermögen 2026 – Sascha Hellinger Comedy YouTuber Portrait",
+          "credit": "Giulian Ruhnau",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan-Sascha_Hellinger_2019.png"
+        },
+        {
+          "file": "comedy-mic-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Mikrofon, nicht UnsympathischTV",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "reaction-gaming-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Reaction, nicht UnsympathischTV",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "hamburg-city-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Stadt, nicht UnsympathischTV",
+          "credit": "Unsplash License. Symbolbild."
+        }
+      ]
+    },
+    {
+      "slug": "iblali",
+      "targetMd": "content/articles/iblali-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "1 bis 3 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "iblali-portrait.jpg",
+      "person": "Viktor Roth",
+      "alternateNames": ["IBlali"],
+      "related": ["unsympathischtv", "rezo", "laserluca", "handofblood"],
+      "images": [
+        {
+          "file": "iblali-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "IBlali Vermögen 2026 – Viktor Roth Comedy YouTuber Portrait",
+          "credit": "Mediakraft Networks",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IBlali.JPG"
+        },
+        {
+          "file": "comedy-stage-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Bühne, nicht IBlali",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "streaming-setup-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Streaming-Setup, nicht IBlali",
+          "credit": "Unsplash License. Symbolbild."
+        }
+      ]
+    },
+    {
+      "slug": "handofblood",
+      "targetMd": "content/articles/handofblood-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "2 bis 5 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "handofblood-portrait.jpg",
+      "person": "Max Knabe",
+      "alternateNames": ["HandOfBlood"],
+      "related": ["montana-black", "papaplatte", "gronkh", "rewinside"],
+      "images": [
+        {
+          "file": "handofblood-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "HandOfBlood Vermögen 2026 – Max Knabe Gaming Esports Creator Portrait",
+          "credit": "Tomasz Niemiec",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:HandOfBlood_(36738811692).jpg"
+        },
+        {
+          "file": "twitch-streaming-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Streaming, nicht HandOfBlood",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "merch-brand-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Merch, nicht HandOfBlood",
+          "credit": "Unsplash License. Symbolbild, kein Produktfoto."
+        },
+        {
+          "file": "esports-arena-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Esports-Arena, nicht HandOfBlood",
+          "credit": "Unsplash License. Symbolbild."
+        }
+      ]
+    },
+    {
+      "slug": "rewinside",
+      "targetMd": "content/articles/rewinside-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "2 bis 5 Millionen Euro",
+      "illustrativeOnly": true,
+      "heroFile": "youtube-camera-illustrative.jpg",
+      "person": "Sebastian Meyer",
+      "alternateNames": ["Rewinside"],
+      "related": ["gronkh", "handofblood", "rezo", "montana-black"],
+      "images": [
+        {
+          "file": "youtube-camera-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true,
+          "alt": "Rewinside Vermögen 2026 – YouTube Twitch Musik Creator Symbolbild",
+          "credit": "Unsplash License. Symbolbild, nicht Sebastian Meyer.",
+          "sourceUrl": "https://unsplash.com/photos/1492691527719-9d1e07e534b4"
+        },
+        {
+          "file": "dj-club-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild DJ, nicht Rewinside",
+          "credit": "Unsplash License. Symbolbild, nicht die Person."
+        },
+        {
+          "file": "real-estate-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Immobilien, nicht Rewinside",
+          "credit": "Unsplash License. Symbolbild, kein Objektfoto."
+        }
+      ]
+    },
+    {
+      "slug": "domtendo",
+      "targetMd": "content/articles/domtendo-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "0,8 bis 2 Millionen Euro",
+      "illustrativeOnly": true,
+      "heroFile": "nintendo-controller-illustrative.jpg",
+      "person": "Dominik Neumayer",
+      "alternateNames": ["Domtendo"],
+      "related": ["gronkh", "papaplatte", "handofblood", "rewinside"],
+      "images": [
+        {
+          "file": "nintendo-controller-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true,
+          "alt": "Domtendo Vermögen 2026 – Nintendo YouTuber Gaming Symbolbild",
+          "credit": "Unsplash License. Symbolbild, nicht Dominik Neumayer.",
+          "sourceUrl": "https://unsplash.com/photos/1606144042614-b2417e99c4e3"
+        },
+        {
+          "file": "gaming-setup-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Gaming-Setup, nicht Domtendo",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "switch-gaming-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Konsole, nicht Domtendo",
+          "credit": "Unsplash License. Symbolbild."
+        }
+      ]
+    },
+    {
+      "slug": "viktoriasarina",
+      "targetMd": "content/articles/viktoriasarina-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "0,8 bis 2 Millionen Euro (Duo); 0,4–1,2 Mio. € je Person",
+      "illustrativeOnly": true,
+      "heroFile": "beauty-makeup-illustrative.jpg",
+      "person": "ViktoriaSarina",
+      "related": ["julia-beautx", "dagi-bee", "melina-sophie", "bibis-beautypalace"],
+      "images": [
+        {
+          "file": "beauty-makeup-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true,
+          "alt": "ViktoriaSarina Vermögen 2026 – Beauty Lifestyle Duo Creator Symbolbild",
+          "credit": "Unsplash License. Symbolbild, nicht Viktoria oder Sarina.",
+          "sourceUrl": "https://unsplash.com/photos/1596462502278-27bfdc403348"
+        },
+        {
+          "file": "lifestyle-fashion-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Fashion, nicht ViktoriaSarina",
+          "credit": "Unsplash License. Symbolbild."
+        },
+        {
+          "file": "youtube-studio-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Studio, nicht ViktoriaSarina",
+          "credit": "Unsplash License. Symbolbild."
+        }
+      ]
+    }
+  ]
+}

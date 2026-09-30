@@ -1,0 +1,1833 @@
+{
+  "site": "Vermoegen der Promis",
+  "generated": "2026-09-30T18:59:12+07:00",
+  "conventions": {
+    "markdownTarget": "content/articles/",
+    "imagesTarget": "public/images/{slug}/",
+    "slugFromFilename": "Strip trailing -vermoegen / -vermoegen-2026 / -2026; special-case redo → rene-dost",
+    "redoSlug": "rene-dost",
+    "redoAliases": [
+      "redo",
+      "redo-rene-dost"
+    ],
+    "heroPreference": "Prefer hero* (non-illustrative), then *portrait*, then other real photos",
+    "categories": [
+      "Influencer",
+      "Unternehmer",
+      "Musiker",
+      "Sport",
+      "Schauspieler",
+      "Politik"
+    ],
+    "description": "First bold lead paragraph (else first prose), truncated to ≤160 chars",
+    "illustrative": "Filename contains illustrative OR pack listed as illustrative-only (e.g. frenzy)"
+  },
+  "articles": [
+    {
+      "slug": "axel-schulz",
+      "sourceMd": "/workspace/articles/axel-schulz-vermoegen-2026.md",
+      "targetMd": "content/articles/axel-schulz-vermoegen-2026.md",
+      "title": "Axel Schulz Vermögen 2026: Box-Legende, TV-Jahre und der Reality-Einstieg",
+      "category": "Sport",
+      "description": "WM-Kämpfe gegen Foreman und Moorer, Jahrzehnte Fernsehen, Grillmarke und jetzt „Promi Big Brother“: Axel Schulz monetarisiert Prominenz seit den 1990ern. Was b…",
+      "heroImage": "public/images/axel-schulz/hero-axel-schulz.jpg",
+      "images": [
+        {
+          "file": "hero-axel-schulz.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "mid-01-boxing-1989.jpg",
+          "placement": "mid",
+          "illustrative": false
+        },
+        {
+          "file": "mid-02-axel-schulz-kuttner.jpg",
+          "placement": "mid",
+          "illustrative": false
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "ca. 4–10 Mio. € (konservativ–Mittelfeld; Portale bis ~12 Mio.)"
+    },
+    {
+      "slug": "bibis-beautypalace",
+      "sourceMd": "/workspace/articles/bibis-beautypalace-vermoegen-2026.md",
+      "targetMd": "content/articles/bibis-beautypalace-vermoegen-2026.md",
+      "title": "Bibi Vermögen 2026: BibisBeautyPalace, Bilou & Family-Business",
+      "category": "Influencer",
+      "description": "Bianca Heinicke (ehem. Claßen) alias Bibi baute mit BibisBeautyPalace und bilou eines der prägenden DE-Creator-Unternehmen. MDR schätzt inkl. Anteilen und Immo…",
+      "heroImage": "public/images/bibis-beautypalace/bibi-2016-portrait.jpg",
+      "images": [
+        {
+          "file": "bibi-2016-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "bibi-bambi-2016.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "bibi-hart-aber-fair-2025.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "8 bis 15 Millionen Euro"
+    },
+    {
+      "slug": "cond-sty",
+      "sourceMd": "/workspace/articles/cond-sty-vermoegen-2026.md",
+      "targetMd": "content/articles/cond-sty-vermoegen-2026.md",
+      "title": "Cond Sty Vermögen 2026: Zeichnungen, TikTok & Creator-Business",
+      "category": "Influencer",
+      "description": "Mit rund 23 Millionen TikTok-Followern ist Cond Sty alias Christoph Brückner Österreichs reichweitenstärkster Kurzvideo-Creator – und in deutschen Rankings oft…",
+      "heroImage": "public/images/cond-sty/smartphone-filming-desk.jpg",
+      "images": [
+        {
+          "file": "smartphone-filming-desk.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "austria-nature-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "drawing-sketch-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "3 bis 8 Millionen Euro"
+    },
+    {
+      "slug": "dagi-bee",
+      "sourceMd": "/workspace/articles/dagi-bee-vermoegen-2026.md",
+      "targetMd": "content/articles/dagi-bee-vermoegen-2026.md",
+      "title": "Dagi Bee Vermögen 2026: Beauty-Marken, YouTube & Business",
+      "category": "Influencer",
+      "description": "Dagmar Kazakov alias Dagi Bee gehört seit über einem Jahrzehnt zur ersten Liga deutscher Beauty-YouTuberinnen – mit Eigenmarken, Familie und Millionen-Reichwei…",
+      "heroImage": "public/images/dagi-bee/dagi-bee-1live-krone-2016.jpg",
+      "images": [
+        {
+          "file": "dagi-bee-1live-krone-2016.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "beauty-makeup-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "youtube-studio-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "5 bis 12 Millionen Euro"
+    },
+    {
+      "slug": "domtendo",
+      "sourceMd": "/workspace/articles/domtendo-vermoegen-2026.md",
+      "targetMd": "content/articles/domtendo-vermoegen-2026.md",
+      "title": "Domtendo Vermögen 2026: Nintendo, YouTube & Streaming",
+      "category": "Influencer",
+      "description": "Dominik Neumayer alias Domtendo ist einer der bekanntesten deutschen Nintendo-Let’s-Player – mit treuer Community, Studio71 und Milliarden Views. Offizielle Bi…",
+      "heroImage": "public/images/domtendo/gaming-setup-illustrative.jpg",
+      "images": [
+        {
+          "file": "gaming-setup-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "nintendo-controller-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "switch-gaming-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "0,8 bis 2 Millionen Euro"
+    },
+    {
+      "slug": "elevator-boys",
+      "sourceMd": "/workspace/articles/elevator-boys-vermoegen-2026.md",
+      "targetMd": "content/articles/elevator-boys-vermoegen-2026.md",
+      "title": "Elevator Boys Vermögen 2026: Lifestyle, YouTube & Gruppen-Business",
+      "category": "Influencer",
+      "description": "Die Elevator Boys – fünf Creator aus dem TikTok-Fahrstuhl-Meme, später Boyband, Models und Prime-Video-Hauptrollen. Offizielle Vermögenszahlen gibt es nicht. W…",
+      "heroImage": "public/images/elevator-boys/berlin-city-lifestyle.jpg",
+      "images": [
+        {
+          "file": "berlin-city-lifestyle.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "fashion-lifestyle-group.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "elevator-interior-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "2 bis 5 Millionen Euro"
+    },
+    {
+      "slug": "frau-gretel",
+      "sourceMd": "/workspace/articles/frau-gretel-vermoegen-2026.md",
+      "targetMd": "content/articles/frau-gretel-vermoegen-2026.md",
+      "title": "Frau Gretel Vermögen 2026: TikTok, Podcast & Creator-Business",
+      "category": "Influencer",
+      "description": "Emily Gretel alias Frau Gretel – TikTok-Comedy, Podcasts und Moderation mit OMR-Charts-Relevanz. Offizielle Vermögenszahlen gibt es nicht. Was ist am Frau Gret…",
+      "heroImage": "public/images/frau-gretel/comedy-stage-lights.jpg",
+      "images": [
+        {
+          "file": "comedy-stage-lights.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "smartphone-tiktok-creator.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "podcast-mic-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "0,4 bis 1,2 Millionen Euro"
+    },
+    {
+      "slug": "frenzy",
+      "sourceMd": "/workspace/articles/frenzy-vermoegen-2026.md",
+      "targetMd": "content/articles/frenzy-vermoegen-2026.md",
+      "title": "Frenzy Vermögen 2026: Was die „Villa der Versuchung“-Siegerin wirklich verdient",
+      "category": "Musiker",
+      "description": "Ballermann-Bühne, Reality-Sieg, Preisgeld für Tiere: Franziska „Frenzy“ Strnad gewinnt 2026 „Villa der Versuchung“ – und bleibt wirtschaftlich vor allem eine L…",
+      "heroImage": "public/images/frenzy/hero-illustrative-female-singer.jpg",
+      "images": [
+        {
+          "file": "hero-illustrative-female-singer.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "mid-01-illustrative-singer-stage.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "mid-02-illustrative-cabaret-singer.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Nur illustrative Bilder (kein echtes Portrait)",
+        "Hero ist illustrative: hero-illustrative-female-singer.jpg"
+      ],
+      "missingImages": false,
+      "estimate": "0,4 bis 1,5 Millionen Euro"
+    },
+    {
+      "slug": "gronkh",
+      "sourceMd": "/workspace/articles/gronkh-vermoegen-2026.md",
+      "targetMd": "content/articles/gronkh-vermoegen-2026.md",
+      "title": "Gronkh Vermögen 2026: Erik Range, Let’s Plays & GRNK",
+      "category": "Influencer",
+      "description": "Erik Range alias Gronkh – Gaming-Ikone, Let’s-Play-Pionier, Streamer und Merch-Unternehmer. Offizielle Vermögenszahlen gibt es nicht. Was ist am Gronkh Vermöge…",
+      "heroImage": "public/images/gronkh/gronkh-webvideopreis-2015.jpg",
+      "images": [
+        {
+          "file": "gronkh-webvideopreis-2015.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "gaming-setup-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "merch-hoodie-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "2,5 bis 6 Millionen Euro"
+    },
+    {
+      "slug": "handofblood",
+      "sourceMd": "/workspace/articles/handofblood-vermoegen-2026.md",
+      "targetMd": "content/articles/handofblood-vermoegen-2026.md",
+      "title": "HandOfBlood Vermögen 2026: Twitch, Esports & Creator-Business",
+      "category": "Influencer",
+      "description": "Maximilian Knabe alias HandOfBlood (Hänno) verbindet YouTube-Let’s-Plays, Twitch, Esports-Moderation und die Agentur INSTINCT3. Offizielle Privatbilanzen fehle…",
+      "heroImage": "public/images/handofblood/handofblood-portrait.jpg",
+      "images": [
+        {
+          "file": "handofblood-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "esports-arena-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "merch-brand-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "twitch-streaming-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "2 bis 5 Millionen Euro"
+    },
+    {
+      "slug": "hati-suarez",
+      "sourceMd": "/workspace/articles/hati-suarez-vermoegen-2026.md",
+      "targetMd": "content/articles/hati-suarez-vermoegen-2026.md",
+      "title": "Hati Suárez Vermögen 2026: Reality-Queen, Sommerhaus-Zoff und Fame Fighting",
+      "category": "Influencer",
+      "description": "Germany Shore, Fame Fighting, Kampf der Realitystars, Sommerhaus der Stars: Hatidza „Hati“ Suárez sammelt Formate – und Aufmerksamkeit. Was das für ihr Vermöge…",
+      "heroImage": "public/images/hati-suarez/hero-hati-suarez.jpg",
+      "images": [
+        {
+          "file": "hero-hati-suarez.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "mid-01-hati-suarez-red-dress.jpg",
+          "placement": "mid",
+          "illustrative": false
+        },
+        {
+          "file": "mid-02-hati-suarez-flex.jpg",
+          "placement": "mid",
+          "illustrative": false
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "ca. 80.000 bis 350.000 Euro"
+    },
+    {
+      "slug": "herr-anwalt",
+      "sourceMd": "/workspace/articles/herr-anwalt-vermoegen-2026.md",
+      "targetMd": "content/articles/herr-anwalt-vermoegen-2026.md",
+      "title": "Herr Anwalt Vermögen 2026: TikTok, Kanzlei & Creator-Einkommen",
+      "category": "Influencer",
+      "description": "Tim Hendrik Walter alias Herr Anwalt erklärt Jura millionenfach auf TikTok – und bleibt parallel Fachanwalt und Notar in Unna. Offizielle Vermögenszahlen gibt…",
+      "heroImage": "public/images/herr-anwalt/smartphone-creator-edu.jpg",
+      "images": [
+        {
+          "file": "smartphone-creator-edu.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "court-gavel-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "law-books-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "1 bis 3 Millionen Euro"
+    },
+    {
+      "slug": "iblali",
+      "sourceMd": "/workspace/articles/iblali-vermoegen-2026.md",
+      "targetMd": "content/articles/iblali-vermoegen-2026.md",
+      "title": "IBlali Vermögen 2026: YouTube-Comedy & Creator-Business",
+      "category": "Influencer",
+      "description": "Viktor Roth alias IBlali (auch VIK) gehört seit den frühen 2010ern zur deutschen YouTube-Comedy – mit Pausen, Twitch-Shift und Comebacks. Offizielle Bilanzen f…",
+      "heroImage": "public/images/iblali/iblali-portrait.jpg",
+      "images": [
+        {
+          "file": "iblali-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "comedy-stage-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "streaming-setup-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "1 bis 3 Millionen Euro"
+    },
+    {
+      "slug": "inscope21",
+      "sourceMd": "/workspace/articles/inscope21-vermoegen-2026.md",
+      "targetMd": "content/articles/inscope21-vermoegen-2026.md",
+      "title": "Inscope21 Vermögen 2026: Fitness, YouTube & Unternehmer-Story",
+      "category": "Influencer",
+      "description": "Nicolas „Nico“ Lazaridis alias Inscope21 verbindet Fitness-YouTube, Twitch und Mode (OLA KALA) – mit öffentlich diskutierten Business-Turbulenzen. Sensible Fin…",
+      "heroImage": "public/images/inscope21/inscope21-2016-portrait.jpg",
+      "images": [
+        {
+          "file": "inscope21-2016-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "inscope21-sing-portrait.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "fashion-streetwear-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "fitness-weights-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "youtube-creator-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "0,5 bis 2,5 Millionen Euro"
+    },
+    {
+      "slug": "julia-beautx",
+      "sourceMd": "/workspace/articles/julia-beautx-vermoegen-2026.md",
+      "targetMd": "content/articles/julia-beautx-vermoegen-2026.md",
+      "title": "Julia Beautx Vermögen 2026: Beauty, YouTube & Lifestyle-Business",
+      "category": "Influencer",
+      "description": "Julia Beautx (Julia Willecke) steht für Beauty-Vlogs, TikTok, TV und Markenkoops – Portale nennen oft 1,8 bis 3,6 Millionen Euro. Offizielle Bilanzen fehlen. W…",
+      "heroImage": "public/images/julia-beautx/julia-beautx-portrait.jpg",
+      "images": [
+        {
+          "file": "julia-beautx-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "julia-beautx-fernsehpreis-2023.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "julia-beautx-fernsehpreis-8841.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "1,5 bis 4 Millionen Euro"
+    },
+    {
+      "slug": "katja-krasavice",
+      "sourceMd": "/workspace/articles/katja-krasavice-vermoegen-2026.md",
+      "targetMd": "content/articles/katja-krasavice-vermoegen-2026.md",
+      "title": "Katja Krasavice Vermögen 2026: Musik, YouTube & Reality-Business",
+      "category": "Musiker",
+      "description": "Katja Krasavice (Katrin Vogelová) – vier Nummer-eins-Alben, DSDS-Jury, Abomodell und Getränkemarke. Portale nennen oft rund 14 Millionen Euro; Gerichtszahlen 2…",
+      "heroImage": "public/images/katja-krasavice/katja-krasavice-bildrenntag-01.jpg",
+      "images": [
+        {
+          "file": "katja-krasavice-bildrenntag-01.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "katja-krasavice-bildrenntag-03.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "katja-krasavice-bildrenntag-2024.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "music-stage-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "8 bis 16 Millionen Euro"
+    },
+    {
+      "slug": "kingchris",
+      "sourceMd": "/workspace/articles/kingchris-vermoegen-2026.md",
+      "targetMd": "content/articles/kingchris-vermoegen-2026.md",
+      "title": "KingChris Vermögen 2026: TikTok-Reichweite & Creator-Deals",
+      "category": "Influencer",
+      "description": "Mit rund 20 Millionen TikTok-Followern zählt KingChris alias @itskingchris zur deutschen Top-Creator-Liga neben Younes und Noel. Anime-Sketches, Gaming und Com…",
+      "heroImage": "public/images/kingchris/convention-crowd-illustrative.jpg",
+      "images": [
+        {
+          "file": "convention-crowd-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "gaming-setup-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "smartphone-creator-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "2 bis 6 Millionen Euro"
+    },
+    {
+      "slug": "knossi",
+      "sourceMd": "/workspace/articles/knossi-vermoegen-2026.md",
+      "targetMd": "content/articles/knossi-vermoegen-2026.md",
+      "title": "Knossi Vermögen 2026: Jens Knossalla, Streaming & Marken",
+      "category": "Influencer",
+      "description": "Jens Knossalla alias Knossi – „König des Internets“ – verdient mit Twitch, TV, ALGE und Happy Slice. Handelsregister und Steuer-TikToks zeigen Holding-Struktur…",
+      "heroImage": "public/images/knossi/knossi-portrait-2012.jpg",
+      "images": [
+        {
+          "file": "knossi-portrait-2012.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "pizza-food-brand.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "streaming-mic-studio.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "nightlife-event-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "6 bis 12 Millionen Euro"
+    },
+    {
+      "slug": "laserluca",
+      "sourceMd": "/workspace/articles/laserluca-vermoegen-2026.md",
+      "targetMd": "content/articles/laserluca-vermoegen-2026.md",
+      "title": "Laserluca Vermögen 2026: Comedy, YouTube & TikTok",
+      "category": "Influencer",
+      "description": "Luca Tilo Scharpenberg alias Laserluca (früher ConCrafter) – Comedy, Let’s Plays und Podcast mit Millionenreichweite. Offizielle Vermögenszahlen gibt es nicht.…",
+      "heroImage": "public/images/laserluca/youtube-creator-desk.jpg",
+      "images": [
+        {
+          "file": "smartphone-comedy-content.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "youtube-creator-desk.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "comedy-mic-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "1,5 bis 4 Millionen Euro"
+    },
+    {
+      "slug": "lena-mantler",
+      "sourceMd": "/workspace/articles/lena-mantler-vermoegen-2026.md",
+      "targetMd": "content/articles/lena-mantler-vermoegen-2026.md",
+      "title": "Lena Mantler Vermögen 2026: Lisa & Lena, TikTok & Creator-Legacy",
+      "category": "Influencer",
+      "description": "Lena Mantler und Zwillingsschwester Lisa zählen zu den frühen Musical.ly-/TikTok-Ikonen Deutschlands – mit Marke, Film und getrennten Kanälen seit 2023. Offizi…",
+      "heroImage": "public/images/lena-mantler/lisa-lena-sing-portrait.jpg",
+      "images": [
+        {
+          "file": "lisa-lena-sing-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "dance-stage-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "fashion-streetwear-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "smartphone-tiktok-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "1,5 bis 4 Millionen Euro"
+    },
+    {
+      "slug": "melina-sophie",
+      "sourceMd": "/workspace/articles/melina-sophie-vermoegen-2026.md",
+      "targetMd": "content/articles/melina-sophie-vermoegen-2026.md",
+      "title": "Melina Sophie Vermögen 2026: Lifestyle, YouTube & Creator-Business",
+      "category": "Influencer",
+      "description": "Melina Sophie Baumann prägte das deutsche Lifestyle-YouTube der 2010er – mit Bravo-Otto, Webvideopreis, Island-Auszeit und Comeback 2024. Offizielle Zahlen feh…",
+      "heroImage": "public/images/melina-sophie/melina-sophie-sing-portrait.jpg",
+      "images": [
+        {
+          "file": "melina-sophie-sing-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "iceland-nature-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "lifestyle-vlog-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "youtube-creator-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "1 bis 3 Millionen Euro"
+    },
+    {
+      "slug": "mike-singer",
+      "sourceMd": "/workspace/articles/mike-singer-vermoegen-2026.md",
+      "targetMd": "content/articles/mike-singer-vermoegen-2026.md",
+      "title": "Mike Singer Vermögen 2026: So reich ist der Popstar – und was das Baby ändert",
+      "category": "Musiker",
+      "description": "Vier Nummer-eins-Alben, MTV-Award, DSDS-Jury – und jetzt die erste Vaterrolle: Mike Singer gehört zu den sichtbarsten Popstars seiner Generation. Was das für s…",
+      "heroImage": "public/images/mike-singer/hero-mike-singer.jpg",
+      "images": [
+        {
+          "file": "hero-mike-singer.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "mid-01-1live-krone.jpg",
+          "placement": "mid",
+          "illustrative": false
+        },
+        {
+          "file": "mid-02-sing.jpg",
+          "placement": "mid",
+          "illustrative": false
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "ca. 3,5–6 Millionen Euro"
+    },
+    {
+      "slug": "montana-black",
+      "sourceMd": "/workspace/articles/montana-black-vermoegen.md",
+      "targetMd": "content/articles/montana-black-vermoegen.md",
+      "title": "MontanaBlack Vermögen 2026: Marcel Eris, Gönrgy & Streaming",
+      "category": "Influencer",
+      "description": "Marcel Eris, besser bekannt als MontanaBlack, verdient seit Jahren Millionen mit Twitch und YouTube. Doch sein eigentliches Business-Spiel beginnt dort, wo die…",
+      "heroImage": "public/images/montana-black/montanablack-portrait-2014.jpg",
+      "images": [
+        {
+          "file": "montanablack-portrait-2014.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "luxury-sports-car.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "luxury-villa-pool.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "streaming-setup-gaming-desk.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "energy-drink-illustrative-happy-life.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "ca. 8–15 Millionen Euro"
+    },
+    {
+      "slug": "nader-el-jindaoui",
+      "sourceMd": "/workspace/articles/nader-el-jindaoui-vermoegen-2026.md",
+      "targetMd": "content/articles/nader-el-jindaoui-vermoegen-2026.md",
+      "title": "Nader El-Jindaoui Vermögen 2026: Fußball, TikTok & Creator-Marken",
+      "category": "Sport",
+      "description": "Nader El-Jindaoui verbindet Profi-Fußball (u. a. Hoffenheim II) mit einer der stärksten deutschen TikTok-Familienmarken. OMR setzte ihn 2025 an die Spitze der…",
+      "heroImage": "public/images/nader-el-jindaoui/nader-jindaoui-2023.jpg",
+      "images": [
+        {
+          "file": "nader-jindaoui-2023.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "football-pitch-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "sneakers-brand-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "2 bis 5 Millionen Euro"
+    },
+    {
+      "slug": "nic-kaufmann",
+      "sourceMd": "/workspace/articles/nic-kaufmann-vermoegen-2026.md",
+      "targetMd": "content/articles/nic-kaufmann-vermoegen-2026.md",
+      "title": "Nic Kaufmann Vermögen 2026: Fashion, TikTok & Brand-Deals",
+      "category": "Influencer",
+      "description": "Mit rund 18 Millionen TikTok-Followern und Luxus-Deals von Prada bis Dior gehört Nic Kaufmann zur Fashion-Elite deutscher Creator. In der ARD-Doku „Money Maker…",
+      "heroImage": "public/images/nic-kaufmann/nic-kaufmann-republica-2025-alt.jpg",
+      "images": [
+        {
+          "file": "nic-kaufmann-republica-2025-alt.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "nic-kaufmann-republica-2025.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "fashion-runway-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "2,5 bis 6 Millionen Euro"
+    },
+    {
+      "slug": "noelgoescrazy",
+      "sourceMd": "/workspace/articles/noelgoescrazy-vermoegen-2026.md",
+      "targetMd": "content/articles/noelgoescrazy-vermoegen-2026.md",
+      "title": "Noelgoescrazy Vermögen 2026: Noel Robinson, TikTok & Tanz-Business",
+      "category": "Influencer",
+      "description": "Noel Robinson alias Noelgoescrazy gehört mit zig Millionen Followern zur globalen TikTok-Elite aus Deutschland. Adidas, Mercedes und Co. zahlen für seine Reich…",
+      "heroImage": "public/images/noelgoescrazy/smartphone-filming-dance.jpg",
+      "images": [
+        {
+          "file": "smartphone-filming-dance.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "sneakers-brand-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "street-dance-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "3 bis 10 Millionen Euro"
+    },
+    {
+      "slug": "pamela-reif",
+      "sourceMd": "/workspace/articles/pamela-reif-vermoegen-2026.md",
+      "targetMd": "content/articles/pamela-reif-vermoegen-2026.md",
+      "title": "Pamela Reif Vermögen 2026: Fitness, App & Naturally Pam",
+      "category": "Influencer",
+      "description": "Pamela Reif baute aus Workout-Clips ein Food-, Beauty- und App-Imperium. Portale taxieren oft um die 10 bis 12 Millionen Euro – offizielle Bilanzen fehlen. Was…",
+      "heroImage": "public/images/pamela-reif/pamela-reif-portrait.jpg",
+      "images": [
+        {
+          "file": "pamela-reif-portrait-2.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "pamela-reif-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "pamela-reif-forbes-berlin-2026.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "fitness-workout-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "healthy-food-brand-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "8 bis 15 Millionen Euro"
+    },
+    {
+      "slug": "papaplatte",
+      "sourceMd": "/workspace/articles/papaplatte-vermoegen-2026.md",
+      "targetMd": "content/articles/papaplatte-vermoegen-2026.md",
+      "title": "Papaplatte Vermögen 2026: Kevin Teller, Twitch & Streaming-Business",
+      "category": "Influencer",
+      "description": "Kevin Teller alias Papaplatte dominiert 2025/26 oft die deutschsprachigen Twitch-Charts bei Abos und Concurrent Viewers. Der Twitch-Leak zeigte schon früh Mill…",
+      "heroImage": "public/images/papaplatte/papaplatte-portrait.jpg",
+      "images": [
+        {
+          "file": "papaplatte-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "creator-headphones.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "gaming-keyboard-rgb.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "twitch-streaming-setup.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "1,5 bis 3,5 Millionen Euro"
+    },
+    {
+      "slug": "rene-dost",
+      "sourceMd": "/workspace/articles/redo-vermoegen-2026.md",
+      "targetMd": "content/articles/redo-vermoegen-2026.md",
+      "title": "Redo Vermögen 2026: So viel besitzt der XXL-Gastronom vor „Promi Big Brother“",
+      "category": "Unternehmer",
+      "description": "René „Redo“ Dost baut seit den 1990ern ein Gastro-Imperium von Brandenburg bis Berlin. Vor seinem Einzug bei „Promi Big Brother“ 2026 fragen Fans: Wie reich is…",
+      "heroImage": "public/images/rene-dost/hero-rene-dost.jpg",
+      "images": [
+        {
+          "file": "hero-rene-dost.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "mid-01-dost-xxl-ketzin.jpg",
+          "placement": "mid",
+          "illustrative": false
+        },
+        {
+          "file": "mid-02-first-snack-van.jpg",
+          "placement": "mid",
+          "illustrative": false
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Slug-Alias: Quelldatei redo-vermoegen-2026.md → rene-dost (Aliases: redo, redo-rene-dost)"
+      ],
+      "missingImages": false,
+      "estimate": "ca. 15–25 Mio. € (Portal-Schätzung)"
+    },
+    {
+      "slug": "rewinside",
+      "sourceMd": "/workspace/articles/rewinside-vermoegen-2026.md",
+      "targetMd": "content/articles/rewinside-vermoegen-2026.md",
+      "title": "Rewinside Vermögen 2026: YouTube, Musik & Investments",
+      "category": "Influencer",
+      "description": "Sebastian Meyer alias Rewinside verbindet YouTube, Twitch, DJ/Musik und eine Immobilienkaufmann-Ausbildung – mit Millionen-Reichweite und diversifiziertem Crea…",
+      "heroImage": "public/images/rewinside/dj-club-illustrative.jpg",
+      "images": [
+        {
+          "file": "dj-club-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "real-estate-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "youtube-camera-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "2 bis 5 Millionen Euro"
+    },
+    {
+      "slug": "rezo",
+      "sourceMd": "/workspace/articles/rezo-vermoegen-2026.md",
+      "targetMd": "content/articles/rezo-vermoegen-2026.md",
+      "title": "Rezo Vermögen 2026: YouTube, Reichweite & Creator-Einkommen",
+      "category": "Influencer",
+      "description": "--- Wer das",
+      "heroImage": "public/images/rezo/rezo-portrait-2019.jpg",
+      "images": [
+        {
+          "file": "rezo-portrait-2019.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "rezo-stage.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "podcast-studio-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "1,5 bis 4 Millionen Euro"
+    },
+    {
+      "slug": "sophia-thiel",
+      "sourceMd": "/workspace/articles/sophia-thiel-vermoegen-2026.md",
+      "targetMd": "content/articles/sophia-thiel-vermoegen-2026.md",
+      "title": "Sophia Thiel Vermögen 2026: Fitness-Programme, Bücher & Brand",
+      "category": "Influencer",
+      "description": "Sophia Thiel gehört zu den prägenden deutschen Fitness-Creatorinnen – mit Programmen, Büchern, TV und Comeback nach Pause. Portal-Schätzungen nennen Millionenb…",
+      "heroImage": "public/images/sophia-thiel/sophia-thiel-portrait.jpg",
+      "images": [
+        {
+          "file": "sophia-thiel-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "fitness-gym-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "healthy-food-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "wellness-yoga-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "2 bis 5 Millionen Euro"
+    },
+    {
+      "slug": "trymacs",
+      "sourceMd": "/workspace/articles/trymacs-vermoegen-2026.md",
+      "targetMd": "content/articles/trymacs-vermoegen-2026.md",
+      "title": "Trymacs Vermögen 2026: Streaming, YouTube & Food-Marken",
+      "category": "Influencer",
+      "description": "Maximilian Stemmler alias Trymacs gehört zu den followerstärksten deutschsprachigen Twitch-Streamern – und rechnet öffentlich mit YouTube-Monatsgage. Dazu komm…",
+      "heroImage": "public/images/trymacs/trymacs-portrait.png",
+      "images": [
+        {
+          "file": "trymacs-portrait.png",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "gaming-streaming-setup.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "esports-crowd-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "pizza-brand-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
+      "estimate": "3 bis 7 Millionen Euro"
+    },
+    {
+      "slug": "unsympathischtv",
+      "sourceMd": "/workspace/articles/unsympathischtv-vermoegen-2026.md",
+      "targetMd": "content/articles/unsympathischtv-vermoegen-2026.md",
+      "title": "UnsympathischTV Vermögen 2026: Reaction, YouTube & Creator-Einkommen",
+      "category": "Influencer",
+      "description": "Sascha Hellinger alias UnsympathischTV zählt zu den etablierten deutschen Comedy-/Reaction-YouTubern – mit Twitch, Zweitkanälen und Business-Nebenprojekten. Of…",
+      "heroImage": "public/images/unsympathischtv/sascha-hellinger-2019.png",
+      "images": [
+        {
+          "file": "sascha-hellinger-2019.png",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "comedy-mic-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "hamburg-city-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "reaction-gaming-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "1,5 bis 4 Millionen Euro"
+    },
+    {
+      "slug": "viktoriasarina",
+      "sourceMd": "/workspace/articles/viktoriasarina-vermoegen-2026.md",
+      "targetMd": "content/articles/viktoriasarina-vermoegen-2026.md",
+      "title": "ViktoriaSarina Vermögen 2026: Beauty, Lifestyle & Creator-Deals",
+      "category": "Influencer",
+      "description": "ViktoriaSarina – das österreichische Duo Viktoria und Sarina – prägt seit den 2010ern deutschsprachiges Beauty-/Lifestyle-YouTube mit Challenges, DIY und Büche…",
+      "heroImage": "public/images/viktoriasarina/beauty-makeup-illustrative.jpg",
+      "images": [
+        {
+          "file": "beauty-makeup-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "lifestyle-fashion-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        },
+        {
+          "file": "youtube-studio-illustrative.jpg",
+          "placement": "unknown",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "0,8 bis 2 Millionen Euro (Duo); 0,4–1,2 Mio. € je Person"
+    },
+    {
+      "slug": "younes-zarou",
+      "sourceMd": "/workspace/articles/younes-zarou-vermoegen-2026.md",
+      "targetMd": "content/articles/younes-zarou-vermoegen-2026.md",
+      "title": "Younes Zarou Vermögen 2026: TikTok, Funq & Creator-Business",
+      "category": "Influencer",
+      "description": "Mit Dutzenden Millionen Followern ist Younes Zarou der reichweitenstärkste deutsche TikTok-Creator. Forbes schreibt von einem Vermögen im mittleren zweistellig…",
+      "heroImage": "public/images/younes-zarou/frankfurt-skyline.jpg",
+      "images": [
+        {
+          "file": "football-pitch-night.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "frankfurt-skyline.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        },
+        {
+          "file": "smartphone-content-creator.jpg",
+          "placement": "unknown",
+          "illustrative": false
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Kein hero-/portrait-Dateiname; Hero per Heuristik gewählt"
+      ],
+      "missingImages": false,
+      "estimate": "12 bis 30 Millionen Euro"
+    }
+  ],
+  "orphanedImagePacks": [
+    {
+      "dir": "images/arnold-schwarzenegger",
+      "slug": "arnold-schwarzenegger",
+      "fileCount": 3,
+      "files": [
+        "hero-arnold-schwarzenegger.jpg",
+        "mid-01-arnold-schwarzenegger-2019.jpg",
+        "mid-02-arnold-schwarzenegger-1985.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/bernard-arnault",
+      "slug": "bernard-arnault",
+      "fileCount": 3,
+      "files": [
+        "hero-bernard-arnault.jpg",
+        "mid-01-bernard-arnault-2017.jpg",
+        "mid-02-bernard-arnault-polytechnique.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/cristiano-ronaldo",
+      "slug": "cristiano-ronaldo",
+      "fileCount": 3,
+      "files": [
+        "hero-cristiano-ronaldo.jpg",
+        "mid-01-cristiano-ronaldo-2010.jpg",
+        "mid-02-cristiano-ronaldo-ucl.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/dieter-schwarz",
+      "slug": "dieter-schwarz",
+      "fileCount": 3,
+      "files": [
+        "hero-illustrative-bildungscampus.jpg",
+        "mid-01-illustrative-lidl-store.jpg",
+        "mid-02-illustrative-heilbronn-campus.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/drake",
+      "slug": "drake",
+      "fileCount": 3,
+      "files": [
+        "hero-drake.jpg",
+        "mid-01-drake-summer-sixteen.jpg",
+        "mid-02-drake-2011.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/elon-musk",
+      "slug": "elon-musk",
+      "fileCount": 3,
+      "files": [
+        "hero-elon-musk.jpg",
+        "mid-01-elon-musk-2015.jpg",
+        "mid-02-elon-musk-2022.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/friedrich-merz",
+      "slug": "friedrich-merz",
+      "fileCount": 3,
+      "files": [
+        "hero-friedrich-merz.jpg",
+        "mid-01-friedrich-merz-erfurt.jpg",
+        "mid-02-friedrich-merz-epp.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/heidi-klum",
+      "slug": "heidi-klum",
+      "fileCount": 3,
+      "files": [
+        "hero-heidi-klum.jpg",
+        "mid-01-heidi-klum-red-carpet.jpg",
+        "mid-02-heidi-klum-2016.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/helene-fischer",
+      "slug": "helene-fischer",
+      "fileCount": 3,
+      "files": [
+        "hero-helene-fischer.jpg",
+        "mid-01-helene-fischer-ffm.jpg",
+        "mid-02-helene-fischer-concert.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/jay-z",
+      "slug": "jay-z",
+      "fileCount": 3,
+      "files": [
+        "hero-jay-z.jpg",
+        "mid-01-jay-z-2011.jpg",
+        "mid-02-jay-z-2017.png"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/juergen-klopp",
+      "slug": "juergen-klopp",
+      "fileCount": 3,
+      "files": [
+        "hero-juergen-klopp.jpg",
+        "mid-01-juergen-klopp-2015.jpg",
+        "mid-02-juergen-klopp-iaa.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/julien-bam",
+      "slug": "julien-bam",
+      "fileCount": 3,
+      "files": [
+        "hero-julien-bam.jpg",
+        "mid-01-julien-bam-show.jpg",
+        "mid-02-julien-bam-red-carpet.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/klaus-michael-kuehne",
+      "slug": "klaus-michael-kuehne",
+      "fileCount": 3,
+      "files": [
+        "hero-klaus-michael-kuehne.jpg",
+        "mid-01-illustrative-kuehne-nagel-building.jpg",
+        "mid-02-illustrative-kuehne-nagel-hq.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/lewis-hamilton",
+      "slug": "lewis-hamilton",
+      "fileCount": 3,
+      "files": [
+        "hero-lewis-hamilton.jpg",
+        "mid-01-lewis-hamilton-silverstone.jpg",
+        "mid-02-lewis-hamilton-2016.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/lionel-messi",
+      "slug": "lionel-messi",
+      "fileCount": 3,
+      "files": [
+        "hero-lionel-messi.jpg",
+        "mid-01-lionel-messi-psg.jpg",
+        "mid-02-lionel-messi-2018.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/mark-zuckerberg",
+      "slug": "mark-zuckerberg",
+      "fileCount": 3,
+      "files": [
+        "hero-mark-zuckerberg.jpg",
+        "mid-01-mark-zuckerberg-g8.jpg",
+        "mid-02-mark-zuckerberg-sxsw.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/mrbeast",
+      "slug": "mrbeast",
+      "fileCount": 3,
+      "files": [
+        "hero-mrbeast.jpg",
+        "mid-01-mrbeast-2021.jpg",
+        "mid-02-mrbeast-2022.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/oprah-winfrey",
+      "slug": "oprah-winfrey",
+      "fileCount": 3,
+      "files": [
+        "hero-oprah-winfrey.jpg",
+        "mid-01-oprah-winfrey-2014.jpg",
+        "mid-02-oprah-winfrey-october-2014.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/rihanna",
+      "slug": "rihanna",
+      "fileCount": 3,
+      "files": [
+        "hero-rihanna.png",
+        "mid-01-rihanna-2019.jpg",
+        "mid-02-rihanna-ambassador.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/shirin-david",
+      "slug": "shirin-david",
+      "fileCount": 3,
+      "files": [
+        "hero-shirin-david.jpg",
+        "mid-01-shirin-david-2025.jpg",
+        "mid-02-shirin-david-premiere.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/stefan-quandt",
+      "slug": "stefan-quandt",
+      "fileCount": 3,
+      "files": [
+        "hero-illustrative-bmw-hq.jpg",
+        "mid-01-illustrative-bmw-welt.jpg",
+        "mid-02-illustrative-bmw-towers.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/susanne-klatten",
+      "slug": "susanne-klatten",
+      "fileCount": 3,
+      "files": [
+        "hero-susanne-klatten.jpg",
+        "mid-01-susanne-klatten-iaa.jpg",
+        "mid-02-susanne-klatten-bmw.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/taylor-swift",
+      "slug": "taylor-swift",
+      "fileCount": 3,
+      "files": [
+        "hero-taylor-swift.png",
+        "mid-01-taylor-swift-vma.png",
+        "mid-02-taylor-swift-2007.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/til-schweiger",
+      "slug": "til-schweiger",
+      "fileCount": 3,
+      "files": [
+        "hero-til-schweiger.jpg",
+        "mid-01-til-schweiger-2022.jpg",
+        "mid-02-til-schweiger-romy.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    },
+    {
+      "dir": "images/toni-kroos",
+      "slug": "toni-kroos",
+      "fileCount": 3,
+      "files": [
+        "hero-toni-kroos.jpg",
+        "mid-01-toni-kroos-dfb.jpg",
+        "mid-02-toni-kroos-real-madrid.jpg"
+      ],
+      "note": "Legacy live celeb image pack ohne lokales *-vermoegen*.md"
+    }
+  ],
+  "slugAliases": {
+    "redo": "rene-dost",
+    "redo-rene-dost": "rene-dost"
+  },
+  "copyPlan": {
+    "markdown": [
+      {
+        "from": "/workspace/articles/axel-schulz-vermoegen-2026.md",
+        "to": "content/articles/axel-schulz-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/bibis-beautypalace-vermoegen-2026.md",
+        "to": "content/articles/bibis-beautypalace-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/cond-sty-vermoegen-2026.md",
+        "to": "content/articles/cond-sty-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/dagi-bee-vermoegen-2026.md",
+        "to": "content/articles/dagi-bee-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/domtendo-vermoegen-2026.md",
+        "to": "content/articles/domtendo-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/elevator-boys-vermoegen-2026.md",
+        "to": "content/articles/elevator-boys-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/frau-gretel-vermoegen-2026.md",
+        "to": "content/articles/frau-gretel-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/frenzy-vermoegen-2026.md",
+        "to": "content/articles/frenzy-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/gronkh-vermoegen-2026.md",
+        "to": "content/articles/gronkh-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/handofblood-vermoegen-2026.md",
+        "to": "content/articles/handofblood-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/hati-suarez-vermoegen-2026.md",
+        "to": "content/articles/hati-suarez-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/herr-anwalt-vermoegen-2026.md",
+        "to": "content/articles/herr-anwalt-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/iblali-vermoegen-2026.md",
+        "to": "content/articles/iblali-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/inscope21-vermoegen-2026.md",
+        "to": "content/articles/inscope21-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/julia-beautx-vermoegen-2026.md",
+        "to": "content/articles/julia-beautx-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/katja-krasavice-vermoegen-2026.md",
+        "to": "content/articles/katja-krasavice-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/kingchris-vermoegen-2026.md",
+        "to": "content/articles/kingchris-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/knossi-vermoegen-2026.md",
+        "to": "content/articles/knossi-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/laserluca-vermoegen-2026.md",
+        "to": "content/articles/laserluca-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/lena-mantler-vermoegen-2026.md",
+        "to": "content/articles/lena-mantler-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/melina-sophie-vermoegen-2026.md",
+        "to": "content/articles/melina-sophie-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/mike-singer-vermoegen-2026.md",
+        "to": "content/articles/mike-singer-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/montana-black-vermoegen.md",
+        "to": "content/articles/montana-black-vermoegen.md"
+      },
+      {
+        "from": "/workspace/articles/nader-el-jindaoui-vermoegen-2026.md",
+        "to": "content/articles/nader-el-jindaoui-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/nic-kaufmann-vermoegen-2026.md",
+        "to": "content/articles/nic-kaufmann-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/noelgoescrazy-vermoegen-2026.md",
+        "to": "content/articles/noelgoescrazy-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/pamela-reif-vermoegen-2026.md",
+        "to": "content/articles/pamela-reif-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/papaplatte-vermoegen-2026.md",
+        "to": "content/articles/papaplatte-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/redo-vermoegen-2026.md",
+        "to": "content/articles/redo-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/rewinside-vermoegen-2026.md",
+        "to": "content/articles/rewinside-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/rezo-vermoegen-2026.md",
+        "to": "content/articles/rezo-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/sophia-thiel-vermoegen-2026.md",
+        "to": "content/articles/sophia-thiel-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/trymacs-vermoegen-2026.md",
+        "to": "content/articles/trymacs-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/unsympathischtv-vermoegen-2026.md",
+        "to": "content/articles/unsympathischtv-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/viktoriasarina-vermoegen-2026.md",
+        "to": "content/articles/viktoriasarina-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/younes-zarou-vermoegen-2026.md",
+        "to": "content/articles/younes-zarou-vermoegen-2026.md"
+      }
+    ],
+    "images": [
+      {
+        "from": "images/axel-schulz",
+        "to": "public/images/axel-schulz/",
+        "slug": "axel-schulz"
+      },
+      {
+        "from": "images/bibis-beautypalace",
+        "to": "public/images/bibis-beautypalace/",
+        "slug": "bibis-beautypalace"
+      },
+      {
+        "from": "images/cond-sty",
+        "to": "public/images/cond-sty/",
+        "slug": "cond-sty"
+      },
+      {
+        "from": "images/dagi-bee",
+        "to": "public/images/dagi-bee/",
+        "slug": "dagi-bee"
+      },
+      {
+        "from": "images/domtendo",
+        "to": "public/images/domtendo/",
+        "slug": "domtendo"
+      },
+      {
+        "from": "images/elevator-boys",
+        "to": "public/images/elevator-boys/",
+        "slug": "elevator-boys"
+      },
+      {
+        "from": "images/frau-gretel",
+        "to": "public/images/frau-gretel/",
+        "slug": "frau-gretel"
+      },
+      {
+        "from": "images/frenzy",
+        "to": "public/images/frenzy/",
+        "slug": "frenzy"
+      },
+      {
+        "from": "images/gronkh",
+        "to": "public/images/gronkh/",
+        "slug": "gronkh"
+      },
+      {
+        "from": "images/handofblood",
+        "to": "public/images/handofblood/",
+        "slug": "handofblood"
+      },
+      {
+        "from": "images/hati-suarez",
+        "to": "public/images/hati-suarez/",
+        "slug": "hati-suarez"
+      },
+      {
+        "from": "images/herr-anwalt",
+        "to": "public/images/herr-anwalt/",
+        "slug": "herr-anwalt"
+      },
+      {
+        "from": "images/iblali",
+        "to": "public/images/iblali/",
+        "slug": "iblali"
+      },
+      {
+        "from": "images/inscope21",
+        "to": "public/images/inscope21/",
+        "slug": "inscope21"
+      },
+      {
+        "from": "images/julia-beautx",
+        "to": "public/images/julia-beautx/",
+        "slug": "julia-beautx"
+      },
+      {
+        "from": "images/katja-krasavice",
+        "to": "public/images/katja-krasavice/",
+        "slug": "katja-krasavice"
+      },
+      {
+        "from": "images/kingchris",
+        "to": "public/images/kingchris/",
+        "slug": "kingchris"
+      },
+      {
+        "from": "images/knossi",
+        "to": "public/images/knossi/",
+        "slug": "knossi"
+      },
+      {
+        "from": "images/laserluca",
+        "to": "public/images/laserluca/",
+        "slug": "laserluca"
+      },
+      {
+        "from": "images/lena-mantler",
+        "to": "public/images/lena-mantler/",
+        "slug": "lena-mantler"
+      },
+      {
+        "from": "images/melina-sophie",
+        "to": "public/images/melina-sophie/",
+        "slug": "melina-sophie"
+      },
+      {
+        "from": "images/mike-singer",
+        "to": "public/images/mike-singer/",
+        "slug": "mike-singer"
+      },
+      {
+        "from": "images/montana-black",
+        "to": "public/images/montana-black/",
+        "slug": "montana-black"
+      },
+      {
+        "from": "images/nader-el-jindaoui",
+        "to": "public/images/nader-el-jindaoui/",
+        "slug": "nader-el-jindaoui"
+      },
+      {
+        "from": "images/nic-kaufmann",
+        "to": "public/images/nic-kaufmann/",
+        "slug": "nic-kaufmann"
+      },
+      {
+        "from": "images/noelgoescrazy",
+        "to": "public/images/noelgoescrazy/",
+        "slug": "noelgoescrazy"
+      },
+      {
+        "from": "images/pamela-reif",
+        "to": "public/images/pamela-reif/",
+        "slug": "pamela-reif"
+      },
+      {
+        "from": "images/papaplatte",
+        "to": "public/images/papaplatte/",
+        "slug": "papaplatte"
+      },
+      {
+        "from": "images/redo-rene-dost",
+        "to": "public/images/rene-dost/",
+        "slug": "rene-dost"
+      },
+      {
+        "from": "images/rewinside",
+        "to": "public/images/rewinside/",
+        "slug": "rewinside"
+      },
+      {
+        "from": "images/rezo",
+        "to": "public/images/rezo/",
+        "slug": "rezo"
+      },
+      {
+        "from": "images/sophia-thiel",
+        "to": "public/images/sophia-thiel/",
+        "slug": "sophia-thiel"
+      },
+      {
+        "from": "images/trymacs",
+        "to": "public/images/trymacs/",
+        "slug": "trymacs"
+      },
+      {
+        "from": "images/unsympathischtv",
+        "to": "public/images/unsympathischtv/",
+        "slug": "unsympathischtv"
+      },
+      {
+        "from": "images/viktoriasarina",
+        "to": "public/images/viktoriasarina/",
+        "slug": "viktoriasarina"
+      },
+      {
+        "from": "images/younes-zarou",
+        "to": "public/images/younes-zarou/",
+        "slug": "younes-zarou"
+      }
+    ],
+    "orphanedImagesNote": "orphanedImagePacks are NOT in copyPlan; import separately if legacy celeb pages are rebuilt"
+  }
+}

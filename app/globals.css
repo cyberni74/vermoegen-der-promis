@@ -1,0 +1,139 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-source), "Segoe UI", sans-serif;
+  --font-serif: var(--font-newsreader), "Iowan Old Style", Palatino, serif;
+  --color-paper: #f3eee6;
+  --color-paper-deep: #e7dfd2;
+  --color-card: #fffcf7;
+  --color-ink: #1c1712;
+  --color-muted: #5f574e;
+  --color-line: #e0d5c6;
+  --color-accent: #8d3b30;
+  --color-pine: #1e4638;
+  --color-gold: #8a6a32;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: #edd3c6;
+}
+
+.article-body {
+  font-size: 1.125rem;
+  line-height: 1.75;
+  color: var(--color-ink);
+}
+
+.article-body > * + * {
+  margin-top: 1rem;
+}
+
+.article-body h2,
+.article-body h3 {
+  font-family: var(--font-serif);
+  line-height: 1.25;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.article-body h2 {
+  margin-top: 2.4rem;
+  font-size: 1.7rem;
+}
+
+.article-body h3 {
+  margin-top: 1.8rem;
+  font-size: 1.3rem;
+}
+
+.article-body a {
+  color: var(--color-pine);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.article-body strong {
+  font-weight: 650;
+}
+
+.article-body ul,
+.article-body ol {
+  padding-left: 1.25rem;
+}
+
+.article-body ul {
+  list-style: disc;
+}
+
+.article-body ol {
+  list-style: decimal;
+}
+
+.article-body li + li {
+  margin-top: 0.35rem;
+}
+
+.article-body hr {
+  margin: 2rem 0;
+  border: 0;
+  border-top: 1px solid var(--color-line);
+}
+
+.article-body blockquote {
+  border-left: 3px solid var(--color-accent);
+  padding-left: 1rem;
+  color: var(--color-muted);
+}
+
+.table-scroll {
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  border: 1px solid var(--color-line);
+  background: white;
+}
+
+.article-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.article-body th,
+.article-body td {
+  padding: 0.65rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--color-line);
+}
+
+.article-body th {
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  z-index: 50;
+  background: var(--color-ink);
+  color: white;
+  padding: 0.5rem 0.8rem;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
