@@ -18,7 +18,7 @@ Redo / René Dost liegt unter `/vermoegen/rene-dost`. `/vermoegen/redo` und `/ve
 1. Markdown nach `content/articles/` legen. Der Slug entsteht aus dem Dateinamen: Endungen `-vermoegen-2026`, `-vermoegen` und `-2026` fallen weg. `redo-vermoegen-2026.md` wird zu `rene-dost`.
 2. Optional Frontmatter: `slug`, `category`, `estimate`, `person`, `alternateNames`, `illustrativeOnly`, `related`.
 3. Bilder nach `public/images/{slug}/`. WebP wird über `next/image` ausgeliefert. Dateien mit `illustrative` im Namen sind Symbolbilder und werden nie als Porträt beschriftet.
-4. `import-manifest.json` führt die 36 Artikel (Heldenbild, Kategorie, Schätzung, illustrative-Flags). Korrekturen für Symbolbild-Helden und Bildnachweise liegen unter `content/catalog/`.
+4. `import-manifest.json` führt die 41 Artikel (Heldenbild, Kategorie, Schätzung, illustrative-Flags). Korrekturen für Symbolbild-Helden und Bildnachweise liegen unter `content/catalog/`.
 
 Vermögenszahlen nur übernehmen, wenn sie im Artikel stehen. Die Schätzungs-Zeile bleibt sichtbar.
 
