@@ -472,12 +472,30 @@ function assertCatalog(articles: Article[], categories: string[]) {
     "rewinside",
     "domtendo",
     "viktoriasarina",
+    "falco-punch",
+    "avemoves",
+    "dilaraas",
+    "diana-zur-loewen",
+    "unge",
   ];
   for (const slug of required) {
     if (!slugs.has(slug)) throw new Error(`Artikel fehlt: ${slug}`);
   }
-  if (articles.length < 36) {
-    throw new Error(`Mindestens 36 Artikel erwartet, gefunden: ${articles.length}`);
+  if (articles.length < 41) {
+    throw new Error(`Mindestens 41 Artikel erwartet, gefunden: ${articles.length}`);
+  }
+  const expectedHeroes: Record<string, string> = {
+    "falco-punch": "smartphone-creator-illustrative.jpg",
+    avemoves: "dance-street-illustrative.jpg",
+    dilaraas: "beauty-makeup-illustrative.jpg",
+    "diana-zur-loewen": "diana-zur-loewen-euro20-portrait.png",
+    unge: "simon-unge-wvp2015-portrait.jpg",
+  };
+  for (const [slug, file] of Object.entries(expectedHeroes)) {
+    const article = articles.find((item) => item.slug === slug);
+    if (article?.hero?.file !== file) {
+      throw new Error(`${slug} Heldenbild ist ${article?.hero?.file ?? "leer"}, erwartet ${file}.`);
+    }
   }
   for (const name of categories) {
     if (!categorySlug(name)) throw new Error(`Kategorie ohne Slug: ${name}`);

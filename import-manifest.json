@@ -1,6 +1,6 @@
 {
   "site": "Vermoegen der Promis",
-  "generated": "2026-09-30T18:59:12+07:00",
+  "generated": "2026-10-01T08:30:00+07:00",
   "conventions": {
     "markdownTarget": "content/articles/",
     "imagesTarget": "public/images/{slug}/",
@@ -23,6 +23,38 @@
     "illustrative": "Filename contains illustrative OR pack listed as illustrative-only (e.g. frenzy)"
   },
   "articles": [
+    {
+      "slug": "avemoves",
+      "sourceMd": "/workspace/articles/avemoves-vermoegen-2026.md",
+      "targetMd": "content/articles/avemoves-vermoegen-2026.md",
+      "title": "AveMoves Vermögen 2026: TikTok-Tanz, Maske & Creator-Business",
+      "category": "Influencer",
+      "description": "Mit rund 17 Millionen TikTok-Followern zählt AveMoves zu den größten deutschen Short-Form-Creatorn – Hip-Hop, Maske, Viral-Choreo. Offizielle Bilanzen fehlen…",
+      "heroImage": "public/images/avemoves/dance-street-illustrative.jpg",
+      "images": [
+        {
+          "file": "dance-street-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "hiphop-dance-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "tiktok-phone-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Anonyme Masken-Marke; Unsplash Symbolbilder"
+      ],
+      "missingImages": false,
+      "estimate": "0,8 bis 2,5 Millionen Euro"
+    },
     {
       "slug": "axel-schulz",
       "sourceMd": "/workspace/articles/axel-schulz-vermoegen-2026.md",
@@ -148,6 +180,70 @@
       "estimate": "5 bis 12 Millionen Euro"
     },
     {
+      "slug": "diana-zur-loewen",
+      "sourceMd": "/workspace/articles/diana-zur-loewen-vermoegen-2026.md",
+      "targetMd": "content/articles/diana-zur-loewen-vermoegen-2026.md",
+      "title": "Diana zur Löwen Vermögen 2026: Influencerin, Rawr Ventures & Business Angel",
+      "category": "Influencer",
+      "description": "Von Beauty-YouTube über Politik- und Finanztipps bis zum Angel-Investing mit Rawr Ventures: Diana zur Löwen baut seit Teenager-Jahren eine Multi-Säulen-Marke…",
+      "heroImage": "public/images/diana-zur-loewen/diana-zur-loewen-euro20-portrait.png",
+      "images": [
+        {
+          "file": "diana-zur-loewen-euro20-portrait.png",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "finance-investing-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "startup-office-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Hero CC BY-SA 4.0 Commons — Attribution"
+      ],
+      "missingImages": false,
+      "estimate": "2 bis 6 Millionen Euro"
+    },
+    {
+      "slug": "dilaraas",
+      "sourceMd": "/workspace/articles/dilaraas-vermoegen-2026.md",
+      "targetMd": "content/articles/dilaraas-vermoegen-2026.md",
+      "title": "Dilaraa.s Vermögen 2026: TikTok, Twitch & Creator-Business",
+      "category": "Influencer",
+      "description": "Mit rund 11,6 Millionen TikTok-Followern, YouTube- und Twitch-Präsenz zählt Dilaraa.s (di1araa.s) zu den großen deutschen Multi-Platform-Creatorinnen – Beaut…",
+      "heroImage": "public/images/dilaraas/beauty-makeup-illustrative.jpg",
+      "images": [
+        {
+          "file": "beauty-makeup-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "dance-creator-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "gaming-stream-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein Commons-Portrait; nicht Dilara Kruse"
+      ],
+      "missingImages": false,
+      "estimate": "1 bis 3 Millionen Euro"
+    },
+    {
       "slug": "domtendo",
       "sourceMd": "/workspace/articles/domtendo-vermoegen-2026.md",
       "targetMd": "content/articles/domtendo-vermoegen-2026.md",
@@ -210,6 +306,38 @@
       ],
       "missingImages": false,
       "estimate": "2 bis 5 Millionen Euro"
+    },
+    {
+      "slug": "falco-punch",
+      "sourceMd": "/workspace/articles/falco-punch-vermoegen-2026.md",
+      "targetMd": "content/articles/falco-punch-vermoegen-2026.md",
+      "title": "Falco Punch Vermögen 2026: TikTok-Transitions, Brand Deals & Creator-Business",
+      "category": "Influencer",
+      "description": "Mit rund 14,1 Millionen TikTok-Followern zählt Falco Punch zu den reichweitenstärksten deutschen Short-Form-Creatorn – Tischler-Hintergrund, Transition-Video…",
+      "heroImage": "public/images/falco-punch/smartphone-creator-illustrative.jpg",
+      "images": [
+        {
+          "file": "smartphone-creator-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "video-editing-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "brand-car-lifestyle-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein Commons-Portrait; Unsplash Symbolbilder"
+      ],
+      "missingImages": false,
+      "estimate": "1,5 bis 4 Millionen Euro"
     },
     {
       "slug": "frau-gretel",
@@ -1115,6 +1243,38 @@
       "warnings": [],
       "missingImages": false,
       "estimate": "3 bis 7 Millionen Euro"
+    },
+    {
+      "slug": "unge",
+      "sourceMd": "/workspace/articles/unge-vermoegen-2026.md",
+      "targetMd": "content/articles/unge-vermoegen-2026.md",
+      "title": "Unge Vermögen 2026: YouTube, Twitch & Creator-Karriere",
+      "category": "Influencer",
+      "description": "Simon Unge (bürgerlich Simon Wiefels) prägte über ein Jahrzehnt DE-Let’s-Play-, Reaction- und Streaming-Kultur – mit Madeira-Immobilien, Merch und Pausen. Of…",
+      "heroImage": "public/images/unge/simon-unge-wvp2015-portrait.jpg",
+      "images": [
+        {
+          "file": "simon-unge-wvp2015-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "unge-republica-2013-portrait.jpg",
+          "placement": "mid",
+          "illustrative": false
+        },
+        {
+          "file": "twitch-streaming-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "Klarname Simon Wiefels — nicht Erik Range"
+      ],
+      "missingImages": false,
+      "estimate": "2 bis 5 Millionen Euro"
     },
     {
       "slug": "unsympathischtv",
