@@ -4,7 +4,7 @@
 
 ---
 
-Wer das **Unge Vermögen 2026** googelt, landet oft bei veralteten Monatseinnahmen oder falschen Klarnamen. Richtig ist: **Simon Wiefels** (* 31. August 1990 in Erkelenz), bekannt als **Unge / Ungespielt** – **nicht** Erik Range (das ist [Gronkh](/vermoegen/gronkh)). Seit den Vorwürfen und dem Rückzug 2024/Bestätigung 2026 ist die Cashflow-Seite der Story eine andere als in Peak-Stream-Jahren.
+Wer das **Unge Vermögen 2026**, **Simon Unge Vermögen** oder **Ungespielt Vermögen 2026** googelt, landet oft bei veralteten Monatseinnahmen oder falschen Klarnamen. Richtig ist: **Simon Wiefels** (* 31. August 1990 in Erkelenz), bekannt als **Unge / Ungespielt** – **nicht** Erik Range (das ist [Gronkh](/vermoegen/gronkh)). Seit den Vorwürfen und dem Rückzug 2024/Bestätigung 2026 ist die Cashflow-Seite der Story eine andere als in Peak-Stream-Jahren.
 
 ## Kurzprofil
 
@@ -36,7 +36,7 @@ Das historische **Unge Einkommen** speiste sich aus:
 | wtf.social / Merch / Aktien | Diversifikation | unklare Reste |
 | Karrierepause ab 2024 | Cashflow ↓ | bilanzrelevant |
 
-**Geschätztes Unge / Simon Wiefels Nettovermögen 2026:** **2 bis 5 Millionen Euro**.  
+**Geschätztes Unge / Simon Wiefels Nettovermögen 2026:** **2 bis 5 Millionen Euro**. Das **Nettovermögen 2026** beschreibt Bestand nach Peak-Jahren – nicht fortgeschriebenen Stream-Cashflow.  
 Begründung: Lange Peak-Phase, transparente hohe Monatseinnahmen in früheren Jahren und Immobilien machen ein Vermögen im **mittleren einstelligen Millionenbereich** plausibel. Die Pause und Reputationskosten dämpfen die Obergrenze; aggressive Fortschreibung von 140.000-€-Monatsverdiensten auf 2026 ist methodisch falsch. Untergrenze spiegelt Liquiditätsverbrauch, Rechts-/PR-Risiken und illiquide Anteile.
 
 **Schätzung ≠ Fakt.** Peak-Umsatz ≠ heutiges Netto.
@@ -54,7 +54,7 @@ Wer **Ungespielt Vermögen** oder **Simon Unge Nettovermögen** sucht, sollte 20
 
 ## Fazit
 
-Das **Unge Vermögen 2026** ist eine Legacy-Creator-Bilanz: Minecraft- und Reaction-Ikone, Madeira, Eigenmarke – dann Bruch. Plausibel bleibt ein Millionenpolster aus der aktiven Dekade; die öffentliche Story 2026 ist weniger „wie viel verdient er monatlich“ als „was bleibt nach Pause und Kontroverse“. Keine Fake-Punktzahl ersetzt das Register.
+Das **Unge Vermögen 2026** ist eine Legacy-Creator-Bilanz: Minecraft- und Reaction-Ikone, Madeira, Eigenmarke – dann Bruch. Plausibel bleibt ein Millionenpolster aus der aktiven Dekade; die öffentliche Story 2026 ist weniger „wie viel verdient er monatlich“ als „was bleibt nach Pause und Kontroverse“. Das geschätzte **Nettovermögen 2026** hängt an Immobilien, Ersparnissen und Legacy – keine Fake-Punktzahl ersetzt das Register.
 
 ## Einordnung im Creator-Markt
 
@@ -64,6 +64,90 @@ Im Vergleich zu [Gronkh](/vermoegen/gronkh), [Papaplatte](/vermoegen/papaplatte)
 
 Vermögenskurven von Streamern folgen oft nicht dem Followergraphen: Die teuersten Jahre können vorbei sein, während Immobilien und Ersparnisse bleiben. Genau deshalb ist die Spanne ehrlicher als jede fortgeschriebene Monatsgage.
 
+## FAQ
+
+### Wie reich ist Unge 2026?
+
+Schätzung: **2–5 Mio. €** für das Unge Vermögen 2026. Lange Peak-Phase und Madeira-Immobilien machen ein mittleres einstelliger Millionenpolster plausibel; Pause ab 2024 dämpft die Obergrenze.
+
+### Wie hoch ist das Simon Unge Vermögen / Nettovermögen?
+
+Unter **Simon Unge Vermögen** und Klarname Simon Wiefels gilt dieselbe Spanne. Geschätztes **Nettovermögen 2026:** **2–5 Mio. €**. Portal ~5,5 Mio. € nur als Hinweis.
+
+### Was ist Ungespielt Vermögen 2026?
+
+**Ungespielt Vermögen 2026** meint denselben Creator (Kanal ungespielt / Marke Unge). Peak-Monatszahlen aus älteren Streams nicht auf 2026 fortschreiben.
+
+### Ist Unge derselbe wie Gronkh?
+
+Nein. Unge = **Simon Wiefels**. Gronkh = Erik Range. Verwechslungen in Suchergebnissen sind häufig, bilanzrelevant falsch.
+
+### Verdient Unge 2026 noch wie früher?
+
+Seit Pause/Rückzug 2024 sind laufende Creator-Einnahmen stark reduziert. Vermögen = Bestand aus der aktiven Dekade, nicht Peak-Cashflow.
+
+### Welche Einkommensquellen hatte Unge?
+
+Historisch YouTube, Twitch, Merch, Brand Deals, wtf.social, Investments und Madeira-Immobilien. Konkrete aktuelle Nettozahlen fehlen.
+
+### FAQPage JSON-LD
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Wie reich ist Unge 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schätzung: **2–5 Mio. €** für das Unge Vermögen 2026. Lange Peak-Phase und Madeira-Immobilien machen ein mittleres einstelliger Millionenpolster plausibel; Pause ab 2024 dämpft die Obergrenze."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wie hoch ist das Simon Unge Vermögen / Nettovermögen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unter **Simon Unge Vermögen** und Klarname Simon Wiefels gilt dieselbe Spanne. Geschätztes **Nettovermögen 2026:** **2–5 Mio. €**. Portal ~5,5 Mio. € nur als Hinweis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was ist Ungespielt Vermögen 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Ungespielt Vermögen 2026** meint denselben Creator (Kanal ungespielt / Marke Unge). Peak-Monatszahlen aus älteren Streams nicht auf 2026 fortschreiben."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ist Unge derselbe wie Gronkh?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Unge = **Simon Wiefels**. Gronkh = Erik Range. Verwechslungen in Suchergebnissen sind häufig, bilanzrelevant falsch."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Verdient Unge 2026 noch wie früher?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seit Pause/Rückzug 2024 sind laufende Creator-Einnahmen stark reduziert. Vermögen = Bestand aus der aktiven Dekade, nicht Peak-Cashflow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Welche Einkommensquellen hatte Unge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Historisch YouTube, Twitch, Merch, Brand Deals, wtf.social, Investments und Madeira-Immobilien. Konkrete aktuelle Nettozahlen fehlen."
+      }
+    }
+  ]
+}
+```
 ---
 
 ## Quellen

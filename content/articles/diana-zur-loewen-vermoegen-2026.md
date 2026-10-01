@@ -36,7 +36,7 @@ Das **Diana zur Löwen Einkommen** ist breiter als reines Creator-Cash:
 | Studio71-Historie / Bücher | Diversifikation | belegt |
 | Rechtsstreits / Reputationsrisiken | Kosten/Risiko | qualitativ |
 
-**Geschätztes Diana zur Löwen Nettovermögen 2026:** **2 bis 6 Millionen Euro**.  
+**Geschätztes Diana zur Löwen Nettovermögen 2026:** **2 bis 6 Millionen Euro**. Wer das **Nettovermögen 2026** als Zahl sucht: Spanne aus Creator-Einnahmen plus illiquidem Angel-Portfolio – kein Register.  
 Begründung: Über ein Jahrzehnt Creator-Einnahmen plus Angel-Portfolio machen ein Vermögen im **mittleren einstelligen Millionenbereich** plausibel. Die oft zitierten 5–10 Mio. € nutzen wir als Obergrenzen-Hinweis der Portale, nicht als Fakt; ohne Fonds-Reporting und Immobilienregister bleibt die Spanne bewusst breit. Aggressive zweistellige Millionen ohne Exit-Belege sind spekulativ.
 
 **Schätzung ≠ Fakt.** Startup-Anteile ≠ jederzeit liquidierbares Privatnetto.
@@ -53,16 +53,88 @@ Wer **Diana zur Löwen Investorin** oder **Rawr Ventures Vermögen** sucht, soll
 
 ## Fazit
 
-Das **Diana zur Löwen Vermögen 2026** ist eine Unternehmerinnen-Story im Influencer-Gewand: Secondhand-YouTube, Politisierung, Finanztipps, Business Angel. Plausibel Millionenvermögen mit Upside im Portfolio – ohne dass die Öffentlichkeit die echte Nettozahl kennt. Die spannendere Frage 2026: wie stark Exits und Private-Equity-/Immobilienpläne die Kurve nach oben ziehen.
+Das **Diana zur Löwen Vermögen 2026** ist eine Unternehmerinnen-Story im Influencer-Gewand: Secondhand-YouTube, Politisierung, Finanztipps, Business Angel. Plausibel Millionenvermögen mit Upside im Portfolio – ohne dass die Öffentlichkeit die echte Nettozahl kennt. Das geschätzte **Nettovermögen 2026** bleibt bewusst breit. Die spannendere Frage 2026: wie stark Exits und Private-Equity-/Immobilienpläne die Kurve nach oben ziehen.
 
 ## Einordnung im Creator-Markt
 
-Gegenüber [Dagi Bee](/vermoegen/dagi-bee), [BibisBeautyPalace](/vermoegen/bibis-beautypalace) und [Pamela Reif](/vermoegen/pamela-reif) liegt zur Löwen näher am **Finance-/Angel-Cluster** als am reinen Beauty-FMCG. Cross zu [Rezo](/vermoegen/rezo) (politische Reichweite) und [Younes Zarou](/vermoegen/younes-zarou) (Unternehmer-Narrativ) hilft der Einordnung – bei klar kleinerer Short-Form-Reichweite als den TikTok-Giganten. Für **wie reich ist Diana zur Löwen 2026** gilt: Spanne **2–6 Mio. €**, Portale als Hinweis.
+Gegenüber [Dagi Bee](/vermoegen/dagi-bee), [BibisBeautyPalace](/vermoegen/bibis-beautypalace) und [Pamela Reif](/vermoegen/pamela-reif) liegt zur Löwen näher am **Finance-/Angel-Cluster** als am reinen Beauty-FMCG. Im Influencerinnen-Cluster ergänzt [Dilaraa.s](/vermoegen/dilaraas) den jüngeren Beauty-/TikTok-Pol. Cross zu [Rezo](/vermoegen/rezo) (politische Reichweite) und [Younes Zarou](/vermoegen/younes-zarou) (Unternehmer-Narrativ) hilft der Einordnung – bei klar kleinerer Short-Form-Reichweite als den TikTok-Giganten. Für **wie reich ist Diana zur Löwen 2026** gilt: Spanne **2–6 Mio. €**, Portale als Hinweis.
 
 ### Vom Beauty-Feed zum Term Sheet
 
 Die Vermögenskurve folgt dem Rare-Pfad: Teen-Blog → YouTube-Netzwerk → Themenpivot → Eigenkapital. Genau der Pivot erklärt, warum Honorare allein die Spanne nicht tragen – und warum illiquide Start-up-Anteile die Obergrenze unsicher machen.
 
+## FAQ
+
+### Wie reich ist Diana zur Löwen 2026?
+
+Schätzung: **2–6 Mio. €**. Lange Creator-Karriere plus Rawr-Ventures-Angels machen ein mittleres einstelliger Millionenvermögen plausibel; Portale mit 5–10 Mio. € nur als Hinweis.
+
+### Wie hoch ist das Diana zur Löwen Nettovermögen?
+
+Geschätztes **Nettovermögen 2026:** **2–6 Mio. €**. Startup-Anteile sind illiquide und nicht jederzeit in Cash umwandelbar.
+
+### Was ist Rawr Ventures?
+
+Diana zur Löwens Angel-/Early-Stage-Vehikel (seit ~2020), Fokus Seed/Pre-Seed u. a. Femtech, Healthtech, Software. Ticketgrößen und Exit-Werte öffentlich weitgehend unbekannt.
+
+### Ist Diana zur Löwen Investorin oder Influencerin?
+
+Beides: Influencerin mit Finance-/Gesellschaftsthemen und Business Angel. Die Vermögenskurve folgt dem Pivot Teen-Blog → YouTube → Angel Investing.
+
+### Womit verdient Diana zur Löwen?
+
+Brand Deals, Speaker/Moderation, Plattform-Inventar, Bücher und illiquide Start-up-Beteiligungen. Forbes nannte Honorare „mehrere Tausend Euro“ je Kooperation – Bandbreite branchenüblich.
+
+### FAQPage JSON-LD
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Wie reich ist Diana zur Löwen 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schätzung: **2–6 Mio. €**. Lange Creator-Karriere plus Rawr-Ventures-Angels machen ein mittleres einstelliger Millionenvermögen plausibel; Portale mit 5–10 Mio. € nur als Hinweis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wie hoch ist das Diana zur Löwen Nettovermögen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geschätztes **Nettovermögen 2026:** **2–6 Mio. €**. Startup-Anteile sind illiquide und nicht jederzeit in Cash umwandelbar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was ist Rawr Ventures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diana zur Löwens Angel-/Early-Stage-Vehikel (seit ~2020), Fokus Seed/Pre-Seed u. a. Femtech, Healthtech, Software. Ticketgrößen und Exit-Werte öffentlich weitgehend unbekannt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ist Diana zur Löwen Investorin oder Influencerin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beides: Influencerin mit Finance-/Gesellschaftsthemen und Business Angel. Die Vermögenskurve folgt dem Pivot Teen-Blog → YouTube → Angel Investing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Womit verdient Diana zur Löwen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brand Deals, Speaker/Moderation, Plattform-Inventar, Bücher und illiquide Start-up-Beteiligungen. Forbes nannte Honorare „mehrere Tausend Euro“ je Kooperation – Bandbreite branchenüblich."
+      }
+    }
+  ]
+}
+```
 ---
 
 ## Quellen

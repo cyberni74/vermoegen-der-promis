@@ -1,6 +1,6 @@
 {
   "site": "Vermoegen der Promis",
-  "generated": "2026-10-01T08:30:00+07:00",
+  "generated": "2026-10-01T09:15:00+07:00",
   "conventions": {
     "markdownTarget": "content/articles/",
     "imagesTarget": "public/images/{slug}/",
@@ -178,6 +178,38 @@
       ],
       "missingImages": false,
       "estimate": "5 bis 12 Millionen Euro"
+    },
+    {
+      "slug": "dfaguimba",
+      "sourceMd": "/workspace/articles/dfaguimba-vermoegen-2026.md",
+      "targetMd": "content/articles/dfaguimba-vermoegen-2026.md",
+      "title": "dfaguimba Vermögen 2026: TikTok-Tanz, Family-Content & Creator-Business",
+      "category": "Influencer",
+      "description": "Unter dem Handle dfaguimba und dem Klarnamen Faguimba Dabo zählt der Dance-/Family-Creator aus Salzgitter mit rund 11,3 Millionen TikTok-Followern zum DE-Top-Tie…",
+      "heroImage": "public/images/dfaguimba/family-dance-illustrative.jpg",
+      "images": [
+        {
+          "file": "family-dance-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "street-dance-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "joyful-dance-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Unsplash Symbolbilder; Handle dfaguimba = Faguimba Dabo"
+      ],
+      "missingImages": false,
+      "estimate": "0,4 bis 1,5 Millionen Euro"
     },
     {
       "slug": "diana-zur-loewen",
@@ -604,6 +636,38 @@
       "estimate": "0,5 bis 2,5 Millionen Euro"
     },
     {
+      "slug": "isaac-mik",
+      "sourceMd": "/workspace/articles/isaac-mik-vermoegen-2026.md",
+      "targetMd": "content/articles/isaac-mik-vermoegen-2026.md",
+      "title": "Isaac M.I.K. Vermögen 2026: TikTok-Tanz, Afroletics & Creator-Business",
+      "category": "Influencer",
+      "description": "Mit rund 11,4 Millionen TikTok-Followern (@isaacmik), Choreo für SEEED & Peter Fox und der Fitness-Marke Afroletics zählt Isaac M.I.K. zu den großen deutschen Da…",
+      "heroImage": "public/images/isaac-mik/dance-fitness-illustrative.jpg",
+      "images": [
+        {
+          "file": "dance-fitness-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "afro-dance-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "fitness-class-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Unsplash Symbolbilder; Klarname Isaac Kwame Kyere"
+      ],
+      "missingImages": false,
+      "estimate": "0,5 bis 2 Millionen Euro"
+    },
+    {
       "slug": "julia-beautx",
       "sourceMd": "/workspace/articles/julia-beautx-vermoegen-2026.md",
       "targetMd": "content/articles/julia-beautx-vermoegen-2026.md",
@@ -632,6 +696,38 @@
       "warnings": [],
       "missingImages": false,
       "estimate": "1,5 bis 4 Millionen Euro"
+    },
+    {
+      "slug": "julienco",
+      "sourceMd": "/workspace/articles/julienco-vermoegen-2026.md",
+      "targetMd": "content/articles/julienco-vermoegen-2026.md",
+      "title": "Julienco Vermögen 2026: YouTube, bilou-Beteiligung & Creator-Business",
+      "category": "Influencer",
+      "description": "Julian Claßen alias Julienco gehört seit 2014 zu den großen DE-Lifestyle-YouTubern – mit TikTok-Reichweite, Brand Deals und gesellschaftlicher Nähe zur bilou-Str…",
+      "heroImage": "public/images/julienco/youtube-creator-illustrative.jpg",
+      "images": [
+        {
+          "file": "youtube-creator-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "lifestyle-vlog-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "cologne-city-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Unsplash Symbolbilder; bilou über GbR/nuwena – keine Exit-Zahlen"
+      ],
+      "missingImages": false,
+      "estimate": "2 bis 6 Millionen Euro"
     },
     {
       "slug": "katja-krasavice",
@@ -942,6 +1038,38 @@
       "estimate": "2 bis 5 Millionen Euro"
     },
     {
+      "slug": "nadine-breaty",
+      "sourceMd": "/workspace/articles/nadine-breaty-vermoegen-2026.md",
+      "targetMd": "content/articles/nadine-breaty-vermoegen-2026.md",
+      "title": "Nadine Breaty Vermögen 2026: TikTok, YouTube & Creator-Business",
+      "category": "Influencer",
+      "description": "Mit rund 10,9–11,4 Millionen TikTok-Followern, YouTube im Mehr-Millionen-Abo-Bereich und dem Buch Only Kind of Broken zählt Nadine Breaty zu den reichweitenstärk…",
+      "heroImage": "public/images/nadine-breaty/beauty-selfcare-illustrative.jpg",
+      "images": [
+        {
+          "file": "beauty-selfcare-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "book-writing-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "tiktok-creator-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Unsplash Symbolbilder; Gesundheitsthemen nur sachlich"
+      ],
+      "missingImages": false,
+      "estimate": "1 bis 4 Millionen Euro"
+    },
+    {
       "slug": "nic-kaufmann",
       "sourceMd": "/workspace/articles/nic-kaufmann-vermoegen-2026.md",
       "targetMd": "content/articles/nic-kaufmann-vermoegen-2026.md",
@@ -972,6 +1100,38 @@
       ],
       "missingImages": false,
       "estimate": "2,5 bis 6 Millionen Euro"
+    },
+    {
+      "slug": "nina-bridney",
+      "sourceMd": "/workspace/articles/nina-bridney-vermoegen-2026.md",
+      "targetMd": "content/articles/nina-bridney-vermoegen-2026.md",
+      "title": "Nina Bridney Vermögen 2026: TikTok, Twitch & Promi Big Brother",
+      "category": "Influencer",
+      "description": "Mit Pink-Ästhetik, IRL-Streams und dem Debüt bei Promi Big Brother 2026 (Start 05.10.2026) rückt Nina Bridney aus Hamburg ins Reality-Rampenlicht. Offizielle Bil…",
+      "heroImage": "public/images/nina-bridney/streamer-pink-illustrative.jpg",
+      "images": [
+        {
+          "file": "streamer-pink-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true
+        },
+        {
+          "file": "twitch-setup-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "lifestyle-phone-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Unsplash Symbolbilder; Klarname oft Nina-Marie Froberg; PBB 05.10.2026"
+      ],
+      "missingImages": false,
+      "estimate": "50.000 bis 250.000 Euro"
     },
     {
       "slug": "noelgoescrazy",
@@ -1678,6 +1838,10 @@
         "to": "content/articles/dagi-bee-vermoegen-2026.md"
       },
       {
+        "from": "/workspace/articles/dfaguimba-vermoegen-2026.md",
+        "to": "content/articles/dfaguimba-vermoegen-2026.md"
+      },
+      {
         "from": "/workspace/articles/domtendo-vermoegen-2026.md",
         "to": "content/articles/domtendo-vermoegen-2026.md"
       },
@@ -1718,8 +1882,16 @@
         "to": "content/articles/inscope21-vermoegen-2026.md"
       },
       {
+        "from": "/workspace/articles/isaac-mik-vermoegen-2026.md",
+        "to": "content/articles/isaac-mik-vermoegen-2026.md"
+      },
+      {
         "from": "/workspace/articles/julia-beautx-vermoegen-2026.md",
         "to": "content/articles/julia-beautx-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/julienco-vermoegen-2026.md",
+        "to": "content/articles/julienco-vermoegen-2026.md"
       },
       {
         "from": "/workspace/articles/katja-krasavice-vermoegen-2026.md",
@@ -1758,8 +1930,16 @@
         "to": "content/articles/nader-el-jindaoui-vermoegen-2026.md"
       },
       {
+        "from": "/workspace/articles/nadine-breaty-vermoegen-2026.md",
+        "to": "content/articles/nadine-breaty-vermoegen-2026.md"
+      },
+      {
         "from": "/workspace/articles/nic-kaufmann-vermoegen-2026.md",
         "to": "content/articles/nic-kaufmann-vermoegen-2026.md"
+      },
+      {
+        "from": "/workspace/articles/nina-bridney-vermoegen-2026.md",
+        "to": "content/articles/nina-bridney-vermoegen-2026.md"
       },
       {
         "from": "/workspace/articles/noelgoescrazy-vermoegen-2026.md",
@@ -1828,6 +2008,11 @@
         "slug": "dagi-bee"
       },
       {
+        "from": "images/dfaguimba",
+        "to": "public/images/dfaguimba/",
+        "slug": "dfaguimba"
+      },
+      {
         "from": "images/domtendo",
         "to": "public/images/domtendo/",
         "slug": "domtendo"
@@ -1878,9 +2063,19 @@
         "slug": "inscope21"
       },
       {
+        "from": "images/isaac-mik",
+        "to": "public/images/isaac-mik/",
+        "slug": "isaac-mik"
+      },
+      {
         "from": "images/julia-beautx",
         "to": "public/images/julia-beautx/",
         "slug": "julia-beautx"
+      },
+      {
+        "from": "images/julienco",
+        "to": "public/images/julienco/",
+        "slug": "julienco"
       },
       {
         "from": "images/katja-krasavice",
@@ -1928,9 +2123,19 @@
         "slug": "nader-el-jindaoui"
       },
       {
+        "from": "images/nadine-breaty",
+        "to": "public/images/nadine-breaty/",
+        "slug": "nadine-breaty"
+      },
+      {
         "from": "images/nic-kaufmann",
         "to": "public/images/nic-kaufmann/",
         "slug": "nic-kaufmann"
+      },
+      {
+        "from": "images/nina-bridney",
+        "to": "public/images/nina-bridney/",
+        "slug": "nina-bridney"
       },
       {
         "from": "images/noelgoescrazy",
