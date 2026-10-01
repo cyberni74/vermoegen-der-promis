@@ -66,6 +66,11 @@ export const PEOPLE: Record<string, PersonProfile> = {
   rewinside: { name: "Sebastian Meyer", alternateNames: ["Rewinside"] },
   domtendo: { name: "Dominik Neumayer", alternateNames: ["Domtendo"] },
   viktoriasarina: { name: "ViktoriaSarina" },
+  "falco-punch": { name: "Falco Punch" },
+  avemoves: { name: "AveMoves", alternateNames: ["Avemoves"] },
+  dilaraas: { name: "Dilaraa.s", alternateNames: ["di1araa.s"] },
+  "diana-zur-loewen": { name: "Diana zur Löwen" },
+  unge: { name: "Simon Wiefels", alternateNames: ["Unge", "Simon Unge", "Ungespielt"] },
 };
 
 export const RELATED: Record<string, string[]> = {
@@ -105,6 +110,11 @@ export const RELATED: Record<string, string[]> = {
   rewinside: ["gronkh", "handofblood", "rezo", "montana-black"],
   domtendo: ["gronkh", "papaplatte", "handofblood", "rewinside"],
   viktoriasarina: ["julia-beautx", "dagi-bee", "melina-sophie", "bibis-beautypalace"],
+  "falco-punch": ["younes-zarou", "noelgoescrazy", "cond-sty", "kingchris"],
+  avemoves: ["falco-punch", "cond-sty", "noelgoescrazy", "elevator-boys"],
+  dilaraas: ["julia-beautx", "dagi-bee", "viktoriasarina", "melina-sophie"],
+  "diana-zur-loewen": ["dagi-bee", "bibis-beautypalace", "pamela-reif", "rezo"],
+  unge: ["gronkh", "papaplatte", "handofblood", "rewinside"],
 };
 
 const CC_BY = "https://creativecommons.org/licenses/by/4.0/";
@@ -298,6 +308,26 @@ export const IMAGE_CREDITS: Record<string, ImageCredit> = {
     licenseUrl: CC_BY_2,
     sourceUrl: "https://commons.wikimedia.org/wiki/File:HandOfBlood_(36738811692).jpg",
   },
+  "diana-zur-loewen/diana-zur-loewen-euro20-portrait.png": {
+    credit: "Datesa",
+    license: "CC BY-SA 4.0",
+    licenseUrl: CC_BY_SA_4,
+    sourceUrl:
+      "https://commons.wikimedia.org/wiki/File:Diana_zur_L%C3%B6wen_bei_der_Euro20%2B_(cropped).png",
+  },
+  "unge/simon-unge-wvp2015-portrait.jpg": {
+    credit: "Webvideopreis Deutschland",
+    license: "CC BY 2.0",
+    licenseUrl: CC_BY_2,
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Simon_Unge_WVP2015.jpg",
+  },
+  "unge/unge-republica-2013-portrait.jpg": {
+    credit: "re:publica",
+    license: "CC BY-SA 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/",
+    sourceUrl:
+      "https://commons.wikimedia.org/wiki/File:Re-publica_2013_%E2%80%93_Simon_(ungespielt),_Amy_Herzstark,_LeFloid_(8718718936)_cropped.jpg",
+  },
 };
 
 export const CATEGORY_COPY: Record<string, string> = {
@@ -323,4 +353,7 @@ export const FORCE_ILLUSTRATIVE_SLUGS = new Set([
   "rewinside",
   "domtendo",
   "viktoriasarina",
+  "falco-punch",
+  "avemoves",
+  "dilaraas",
 ]);

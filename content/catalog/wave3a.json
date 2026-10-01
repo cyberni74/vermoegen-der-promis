@@ -1,0 +1,193 @@
+{
+  "articles": [
+    {
+      "slug": "falco-punch",
+      "targetMd": "content/articles/falco-punch-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "1,5 bis 4 Millionen Euro",
+      "illustrativeOnly": true,
+      "heroFile": "smartphone-creator-illustrative.jpg",
+      "person": "Falco Punch",
+      "related": ["younes-zarou", "noelgoescrazy", "cond-sty", "kingchris"],
+      "images": [
+        {
+          "file": "smartphone-creator-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true,
+          "alt": "Falco Punch Vermögen 2026 – TikTok Creator Symbolbild",
+          "credit": "Unsplash License. Symbolbild, nicht Falco Punch.",
+          "sourceUrl": "https://unsplash.com/photos/1611162616475-46b635cb6868"
+        },
+        {
+          "file": "video-editing-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Videoschnitt, nicht Falco Punch",
+          "credit": "Unsplash License. Symbolbild, nicht die Person.",
+          "sourceUrl": "https://unsplash.com/photos/1574717024653-61fd2cf4d44d"
+        },
+        {
+          "file": "brand-car-lifestyle-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Auto, nicht Falco Punch",
+          "credit": "Unsplash License. Symbolbild, kein Fahrzeug der Person.",
+          "sourceUrl": "https://unsplash.com/photos/1492144534655-ae79c964c9d7"
+        }
+      ]
+    },
+    {
+      "slug": "avemoves",
+      "targetMd": "content/articles/avemoves-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "0,8 bis 2,5 Millionen Euro",
+      "illustrativeOnly": true,
+      "heroFile": "dance-street-illustrative.jpg",
+      "person": "AveMoves",
+      "alternateNames": ["Avemoves"],
+      "related": ["falco-punch", "cond-sty", "noelgoescrazy", "elevator-boys"],
+      "images": [
+        {
+          "file": "dance-street-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true,
+          "alt": "AveMoves Vermögen 2026 – TikTok Dance Creator Symbolbild",
+          "credit": "Unsplash License. Symbolbild, nicht AveMoves.",
+          "sourceUrl": "https://unsplash.com/photos/1508700929628-666bc8bd84ea"
+        },
+        {
+          "file": "hiphop-dance-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Hip-Hop-Tanz, nicht AveMoves",
+          "credit": "Unsplash License. Symbolbild, nicht die Person.",
+          "sourceUrl": "https://unsplash.com/photos/1547153760-18fc86324498"
+        },
+        {
+          "file": "tiktok-phone-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Smartphone, nicht AveMoves",
+          "credit": "Unsplash License. Symbolbild.",
+          "sourceUrl": "https://unsplash.com/photos/1611162616305-c69b3fa7fbe0"
+        }
+      ]
+    },
+    {
+      "slug": "dilaraas",
+      "targetMd": "content/articles/dilaraas-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "1 bis 3 Millionen Euro",
+      "illustrativeOnly": true,
+      "heroFile": "beauty-makeup-illustrative.jpg",
+      "person": "Dilaraa.s",
+      "alternateNames": ["di1araa.s"],
+      "related": ["julia-beautx", "dagi-bee", "viktoriasarina", "melina-sophie"],
+      "images": [
+        {
+          "file": "beauty-makeup-illustrative.jpg",
+          "placement": "hero",
+          "illustrative": true,
+          "alt": "Dilaraa.s Vermögen 2026 – TikTok Beauty Creator Symbolbild",
+          "credit": "Unsplash License. Symbolbild, nicht Dilaraa.s.",
+          "sourceUrl": "https://unsplash.com/photos/1596462502278-27bfdc403348"
+        },
+        {
+          "file": "dance-creator-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Tanz, nicht Dilaraa.s",
+          "credit": "Unsplash License. Symbolbild.",
+          "sourceUrl": "https://unsplash.com/photos/1518611012118-696072aa579a"
+        },
+        {
+          "file": "gaming-stream-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Gaming, nicht Dilaraa.s",
+          "credit": "Unsplash License. Symbolbild.",
+          "sourceUrl": "https://unsplash.com/photos/1542751371-adc38448a05e"
+        }
+      ]
+    },
+    {
+      "slug": "diana-zur-loewen",
+      "targetMd": "content/articles/diana-zur-loewen-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "2 bis 6 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "diana-zur-loewen-euro20-portrait.png",
+      "person": "Diana zur Löwen",
+      "related": ["dagi-bee", "bibis-beautypalace", "pamela-reif", "rezo"],
+      "images": [
+        {
+          "file": "diana-zur-loewen-euro20-portrait.png",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "Diana zur Löwen Vermögen 2026 – Influencerin Business Angel Portrait",
+          "credit": "Datesa",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diana_zur_L%C3%B6wen_bei_der_Euro20%2B_(cropped).png"
+        },
+        {
+          "file": "finance-investing-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Finanzen, nicht Diana zur Löwen",
+          "credit": "Unsplash License. Symbolbild.",
+          "sourceUrl": "https://unsplash.com/photos/1611974789855-9c2a0a7236a3"
+        },
+        {
+          "file": "startup-office-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Büro, nicht Diana zur Löwen",
+          "credit": "Unsplash License. Symbolbild.",
+          "sourceUrl": "https://unsplash.com/photos/1556761175-5973dc0f32e7"
+        }
+      ]
+    },
+    {
+      "slug": "unge",
+      "targetMd": "content/articles/unge-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "2 bis 5 Millionen Euro",
+      "illustrativeOnly": false,
+      "heroFile": "simon-unge-wvp2015-portrait.jpg",
+      "person": "Simon Wiefels",
+      "alternateNames": ["Unge", "Simon Unge", "Ungespielt"],
+      "related": ["gronkh", "papaplatte", "handofblood", "rewinside"],
+      "images": [
+        {
+          "file": "simon-unge-wvp2015-portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "Unge Vermögen 2026 – Simon Wiefels YouTube Twitch Creator Portrait",
+          "credit": "Webvideopreis Deutschland",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simon_Unge_WVP2015.jpg"
+        },
+        {
+          "file": "unge-republica-2013-portrait.jpg",
+          "placement": "mid",
+          "illustrative": false,
+          "alt": "Unge Vermögen 2026 – Simon Wiefels re:publica 2013 Portrait",
+          "credit": "re:publica",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Re-publica_2013_%E2%80%93_Simon_(ungespielt),_Amy_Herzstark,_LeFloid_(8718718936)_cropped.jpg"
+        },
+        {
+          "file": "twitch-streaming-illustrative.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "Symbolbild Streaming, nicht Simon Wiefels",
+          "credit": "Unsplash License. Symbolbild.",
+          "sourceUrl": "https://unsplash.com/photos/1542751371-adc38448a05e"
+        }
+      ]
+    }
+  ]
+}
