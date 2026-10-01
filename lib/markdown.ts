@@ -10,6 +10,47 @@ export type LinkPhrase = {
   text: string;
 };
 
+export type FaqPageSchema = {
+  "@context"?: string;
+  "@type": string | string[];
+  mainEntity: Array<{
+    "@type"?: string;
+    name?: string;
+    acceptedAnswer?: { "@type"?: string; text?: string };
+  }>;
+};
+
+function isFaqPage(value: unknown): value is FaqPageSchema {
+  if (!value || typeof value !== "object") return false;
+  const record = value as Record<string, unknown>;
+  const type = record["@type"];
+  const isType = type === "FAQPage" || (Array.isArray(type) && type.includes("FAQPage"));
+  return isType && Array.isArray(record.mainEntity) && record.mainEntity.length > 0;
+}
+
+/** Pull FAQPage JSON fences out of markdown so they are not rendered as code blocks. */
+export function extractFaqPage(markdown: string): { markdown: string; faqPage: FaqPageSchema | null } {
+  let faqPage: FaqPageSchema | null = null;
+  const withoutFences = markdown.replace(/```json\s*\n([\s\S]*?)```/g, (full, body: string) => {
+    let parsed: unknown;
+    try {
+      parsed = JSON.parse(body);
+    } catch {
+      return full;
+    }
+    if (!isFaqPage(parsed)) return full;
+    faqPage = parsed;
+    return "";
+  });
+  const cleaned = withoutFences.replace(/^[ \t]*#{2,3}[ \t]+FAQPage JSON-LD[ \t]*$/gm, "");
+  return { markdown: cleaned, faqPage };
+}
+
+export function explicitMeta(markdown: string): string {
+  const match = markdown.match(/^\*\*Meta:\*\*\s*(.+)$/m);
+  return match?.[1]?.replace(/\s+/g, " ").trim() ?? "";
+}
+
 type CompiledPhrase = LinkPhrase & { re: RegExp };
 
 function escapeRegExp(value: string): string {
@@ -100,7 +141,7 @@ function wrapTables(html: string): string {
 }
 
 export function renderMarkdown(markdown: string, phrases: LinkPhrase[]): string {
-  const body = markdown.replace(/^#\s+[^\n]+\n+/, "");
+  const body = extractFaqPage(markdown).markdown.replace(/^#\s+[^\n]+\n+/, "");
   const file = unified()
     .use(remarkParse)
     .use(remarkGfm)
@@ -112,7 +153,8 @@ export function renderMarkdown(markdown: string, phrases: LinkPhrase[]): string 
 }
 
 export function firstBoldLead(markdown: string): string {
-  const match = markdown.match(/\*\*([\s\S]+?)\*\*/);
+  const withoutMeta = markdown.replace(/^\*\*Meta:\*\*[^\n]*\n?/m, "");
+  const match = withoutMeta.match(/\*\*([\s\S]+?)\*\*/);
   if (!match) return "";
   return match[1].replace(/\s+/g, " ").trim();
 }

@@ -10,7 +10,15 @@ import {
   type ImageCredit,
   type PersonProfile,
 } from "@/lib/editorial";
-import { firstBoldLead, firstHeading, renderMarkdown, type LinkPhrase } from "@/lib/markdown";
+import {
+  explicitMeta,
+  extractFaqPage,
+  firstBoldLead,
+  firstHeading,
+  renderMarkdown,
+  type FaqPageSchema,
+  type LinkPhrase,
+} from "@/lib/markdown";
 import { categorySlug, truncateText } from "@/lib/site";
 
 export type ArticleImage = {
@@ -42,6 +50,7 @@ export type Article = {
   keywords: string[];
   markdown: string;
   html: string;
+  faqPage: FaqPageSchema | null;
   related: Article[];
 };
 
@@ -319,11 +328,13 @@ function loadArticles(): Article[] {
       Boolean(fm.illustrativeOnly);
     const person = profileFor(slug, title, catalogEntry, fm);
     const category = fm.category || entry?.category || "Influencer";
+    const prepared = extractFaqPage(markdown);
     const description =
+      usableDescription(explicitMeta(markdown)) ||
       usableDescription(manifestEntry?.description) ||
       usableDescription(fm.description) ||
       usableDescription(catalogEntry?.description) ||
-      truncateText(firstBoldLead(markdown));
+      truncateText(firstBoldLead(prepared.markdown));
     const estimate = manifestEntry?.estimate || catalogEntry?.estimate || fm.estimate || null;
     const sourceImages = mergeImageSources(
       manifestEntry?.images,
@@ -359,7 +370,8 @@ function loadArticles(): Article[] {
       person: person.name,
       alternateNames: person.alternateNames ?? [],
       keywords: keywordsFor(person.name, person.alternateNames ?? [], category),
-      markdown,
+      markdown: prepared.markdown,
+      faqPage: prepared.faqPage,
     });
   }
 
@@ -385,6 +397,12 @@ function loadArticles(): Article[] {
       draft.markdown,
       phrases.filter((phrase) => phrase.slug !== draft.slug),
     );
+    if (
+      draft.faqPage &&
+      (html.includes("FAQPage JSON-LD") || html.includes('"@type": "FAQPage"') || html.includes("language-json"))
+    ) {
+      throw new Error(`${draft.slug}: FAQPage-JSON-LD steht noch im sichtbaren HTML.`);
+    }
     return {
       ...draft,
       html,
@@ -477,12 +495,17 @@ function assertCatalog(articles: Article[], categories: string[]) {
     "dilaraas",
     "diana-zur-loewen",
     "unge",
+    "nina-bridney",
+    "isaac-mik",
+    "julienco",
+    "nadine-breaty",
+    "dfaguimba",
   ];
   for (const slug of required) {
     if (!slugs.has(slug)) throw new Error(`Artikel fehlt: ${slug}`);
   }
-  if (articles.length < 41) {
-    throw new Error(`Mindestens 41 Artikel erwartet, gefunden: ${articles.length}`);
+  if (articles.length < 46) {
+    throw new Error(`Mindestens 46 Artikel erwartet, gefunden: ${articles.length}`);
   }
   const expectedHeroes: Record<string, string> = {
     "falco-punch": "smartphone-creator-illustrative.jpg",
@@ -490,7 +513,34 @@ function assertCatalog(articles: Article[], categories: string[]) {
     dilaraas: "beauty-makeup-illustrative.jpg",
     "diana-zur-loewen": "diana-zur-loewen-euro20-portrait.png",
     unge: "simon-unge-wvp2015-portrait.jpg",
+    "nina-bridney": "streamer-pink-illustrative.jpg",
+    "isaac-mik": "dance-fitness-illustrative.jpg",
+    julienco: "youtube-creator-illustrative.jpg",
+    "nadine-breaty": "beauty-selfcare-illustrative.jpg",
+    dfaguimba: "family-dance-illustrative.jpg",
   };
+  const faqSlugs = [
+    "falco-punch",
+    "avemoves",
+    "dilaraas",
+    "diana-zur-loewen",
+    "unge",
+    "nina-bridney",
+    "isaac-mik",
+    "julienco",
+    "nadine-breaty",
+    "dfaguimba",
+  ];
+  for (const slug of faqSlugs) {
+    const article = articles.find((item) => item.slug === slug);
+    if (!article?.faqPage || article.faqPage.mainEntity.length < 4) {
+      throw new Error(`${slug} braucht ein FAQPage-JSON-LD aus dem Markdown.`);
+    }
+  }
+  const dilara = articles.find((item) => item.slug === "dilaraas");
+  if (!dilara?.title.includes("nicht Dilara Kruse") || !dilara.description.includes("Nicht Dilara Kruse")) {
+    throw new Error("Dilaraa.s muss von Dilara Kruse unterschieden bleiben.");
+  }
   for (const [slug, file] of Object.entries(expectedHeroes)) {
     const article = articles.find((item) => item.slug === slug);
     if (article?.hero?.file !== file) {

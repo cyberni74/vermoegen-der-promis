@@ -71,6 +71,14 @@ export const PEOPLE: Record<string, PersonProfile> = {
   dilaraas: { name: "Dilaraa.s", alternateNames: ["di1araa.s"] },
   "diana-zur-loewen": { name: "Diana zur Löwen" },
   unge: { name: "Simon Wiefels", alternateNames: ["Unge", "Simon Unge", "Ungespielt"] },
+  "nina-bridney": { name: "Nina Bridney", alternateNames: ["Nina-Marie Froberg"] },
+  "isaac-mik": {
+    name: "Isaac M.I.K.",
+    alternateNames: ["Isaac Kyere", "Isaac Kwame Kyere"],
+  },
+  julienco: { name: "Julian Claßen", alternateNames: ["Julienco"] },
+  "nadine-breaty": { name: "Nadine Breaty" },
+  dfaguimba: { name: "Faguimba Dabo", alternateNames: ["dfaguimba"] },
 };
 
 export const RELATED: Record<string, string[]> = {
@@ -115,6 +123,11 @@ export const RELATED: Record<string, string[]> = {
   dilaraas: ["julia-beautx", "dagi-bee", "viktoriasarina", "melina-sophie"],
   "diana-zur-loewen": ["dagi-bee", "bibis-beautypalace", "pamela-reif", "rezo"],
   unge: ["gronkh", "papaplatte", "handofblood", "rewinside"],
+  "nina-bridney": ["rene-dost", "axel-schulz", "hati-suarez", "mike-singer"],
+  "isaac-mik": ["avemoves", "falco-punch", "elevator-boys", "nader-el-jindaoui"],
+  julienco: ["bibis-beautypalace", "dagi-bee", "julia-beautx", "unge"],
+  "nadine-breaty": ["dilaraas", "julia-beautx", "dagi-bee", "melina-sophie"],
+  dfaguimba: ["isaac-mik", "avemoves", "falco-punch", "elevator-boys"],
 };
 
 const CC_BY = "https://creativecommons.org/licenses/by/4.0/";
@@ -356,4 +369,9 @@ export const FORCE_ILLUSTRATIVE_SLUGS = new Set([
   "falco-punch",
   "avemoves",
   "dilaraas",
+  "nina-bridney",
+  "isaac-mik",
+  "julienco",
+  "nadine-breaty",
+  "dfaguimba",
 ]);
