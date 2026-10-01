@@ -54,7 +54,11 @@ export function articleJsonLd(article: Article): string {
     },
   ];
 
-  if (article.estimate) {
+  if (article.faqPage) {
+    const faq = { ...article.faqPage };
+    delete faq["@context"];
+    graph.push(faq);
+  } else if (article.estimate) {
     graph.push({
       "@type": "FAQPage",
       mainEntity: [
