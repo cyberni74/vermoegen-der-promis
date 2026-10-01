@@ -41,6 +41,7 @@ export type Article = {
   category: string;
   categorySlug: string;
   estimate: string | null;
+  estimateNote: string | null;
   illustrativeOnly: boolean;
   hero: ArticleImage | null;
   images: ArticleImage[];
@@ -93,6 +94,7 @@ type CatalogArticle = {
   title?: string;
   category: string;
   estimate?: string;
+  estimateNote?: string;
   illustrativeOnly?: boolean;
   heroFile?: string;
   person?: string;
@@ -171,7 +173,7 @@ function fileExists(slug: string, file: string): boolean {
 }
 
 function isIllustrative(file: string, flagged: boolean | undefined, pack: boolean): boolean {
-  return pack || Boolean(flagged) || /illustrative/i.test(file);
+  return pack || Boolean(flagged) || /illustrativ/i.test(file);
 }
 
 function defaultAlt(person: string, illustrative: boolean, file: string, title: string): string {
@@ -336,6 +338,7 @@ function loadArticles(): Article[] {
       usableDescription(catalogEntry?.description) ||
       truncateText(firstBoldLead(prepared.markdown));
     const estimate = manifestEntry?.estimate || catalogEntry?.estimate || fm.estimate || null;
+    const estimateNote = catalogEntry?.estimateNote?.trim() || null;
     const sourceImages = mergeImageSources(
       manifestEntry?.images,
       catalogEntry?.images,
@@ -363,6 +366,7 @@ function loadArticles(): Article[] {
       category,
       categorySlug: categorySlug(category),
       estimate,
+      estimateNote,
       illustrativeOnly,
       hero,
       images,
@@ -406,6 +410,7 @@ function loadArticles(): Article[] {
     return {
       ...draft,
       html,
+      gallery: draft.gallery.filter((image) => !html.includes(image.src)),
       related: relatedSlugs.slice(0, 4).map((slug) => bySlug.get(slug)!).filter(Boolean) as Article[],
     };
   });
@@ -504,8 +509,8 @@ function assertCatalog(articles: Article[], categories: string[]) {
   for (const slug of required) {
     if (!slugs.has(slug)) throw new Error(`Artikel fehlt: ${slug}`);
   }
-  if (articles.length < 46) {
-    throw new Error(`Mindestens 46 Artikel erwartet, gefunden: ${articles.length}`);
+  if (articles.length < 47) {
+    throw new Error(`Mindestens 47 Artikel erwartet, gefunden: ${articles.length}`);
   }
   const expectedHeroes: Record<string, string> = {
     "falco-punch": "smartphone-creator-illustrative.jpg",
@@ -536,6 +541,22 @@ function assertCatalog(articles: Article[], categories: string[]) {
     if (!article?.faqPage || article.faqPage.mainEntity.length < 4) {
       throw new Error(`${slug} braucht ein FAQPage-JSON-LD aus dem Markdown.`);
     }
+  }
+  const david = articles.find((item) => item.slug === "david-ortega-arenas");
+  if (!david || david.illustrativeOnly || david.hero?.illustrative) {
+    throw new Error("David Ortega Arenas braucht das Commons-Porträt, kein reines Symbolbild.");
+  }
+  if (!david.estimate?.includes("800") || !david.description.includes("keine Bilanz")) {
+    throw new Error("Die 800-Euro-Zahl muss als Story-Stand ohne Bilanz gekennzeichnet sein.");
+  }
+  if (!david.estimateNote?.includes("keine amtliche Vermögensangabe")) {
+    throw new Error("Der sichtbare 800-Euro-Hinweis fehlt.");
+  }
+  if (!david.hero?.credit?.includes("Maria Esperanza Ortega Arenas") || david.hero.license !== "CC BY-SA 3.0") {
+    throw new Error("Commons-Attribution für David Ortega Arenas fehlt.");
+  }
+  if (david.images.some((image) => image.file.includes("illustrativ") && !image.illustrative)) {
+    throw new Error("Illustrativ-Dateien dürfen nicht als Porträt gelten.");
   }
   const dilara = articles.find((item) => item.slug === "dilaraas");
   if (!dilara?.title.includes("nicht Dilara Kruse") || !dilara.description.includes("Nicht Dilara Kruse")) {

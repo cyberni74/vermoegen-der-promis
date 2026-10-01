@@ -46,6 +46,7 @@ export const PEOPLE: Record<string, PersonProfile> = {
   kingchris: { name: "KingChris", alternateNames: ["itskingchris"] },
   "nic-kaufmann": { name: "Nic Kaufmann" },
   "dagi-bee": { name: "Dagmar Kazakov", alternateNames: ["Dagi Bee"] },
+  "david-ortega-arenas": { name: "David Ortega Arenas" },
   "nader-el-jindaoui": {
     name: "Nader El-Jindaoui",
     alternateNames: ["Nader Jindaoui"],
@@ -107,6 +108,7 @@ export const RELATED: Record<string, string[]> = {
   kingchris: ["younes-zarou", "noelgoescrazy", "cond-sty", "nic-kaufmann"],
   "nic-kaufmann": ["younes-zarou", "kingchris", "elevator-boys", "cond-sty"],
   "dagi-bee": ["bibis-beautypalace", "julia-beautx", "pamela-reif"],
+  "david-ortega-arenas": ["montana-black", "unge"],
   "nader-el-jindaoui": ["montana-black", "herr-anwalt", "younes-zarou"],
   "lena-mantler": ["noelgoescrazy", "younes-zarou", "elevator-boys", "kingchris"],
   "melina-sophie": ["dagi-bee", "julia-beautx", "bibis-beautypalace", "viktoriasarina"],
@@ -139,6 +141,12 @@ const CC0 = "https://creativecommons.org/publicdomain/zero/1.0/";
 
 /** Attribution for files we actually publish. Key: `${slug}/${filename}`. */
 export const IMAGE_CREDITS: Record<string, ImageCredit> = {
+  "david-ortega-arenas/david-ortega-arenas-commons-2015.jpg": {
+    credit: "Maria Esperanza Ortega Arenas",
+    license: "CC BY-SA 3.0",
+    licenseUrl: CC_BY_SA_3,
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:David_Ortega_Arenas.jpg",
+  },
   "montana-black/montanablack-portrait-2014.jpg": {
     credit: "Schattke GmbH & Co KG",
     license: "CC BY-SA 4.0",
