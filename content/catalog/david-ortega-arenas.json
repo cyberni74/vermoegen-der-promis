@@ -1,0 +1,69 @@
+{
+  "articles": [
+    {
+      "slug": "david-ortega-arenas",
+      "targetMd": "content/articles/david-ortega-arenas-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "~800 € (narrativer Story-Stand, keine Bilanz)",
+      "estimateNote": "800 € = narrative Stand-Schätzung/Feature; keine amtliche Vermögensangabe.",
+      "description": "Einst TV-Star und DJ, heute TikTok und knappe Kasse: David Ortega Arenas Vermögen 2026 – Fakten, Pfändung, Feature-Erzählung. ~800 € nur als Story-Stand, keine Bilanz.",
+      "illustrativeOnly": false,
+      "heroFile": "david-ortega-arenas-commons-2015.jpg",
+      "person": "David Ortega Arenas",
+      "related": ["montana-black", "unge"],
+      "images": [
+        {
+          "file": "david-ortega-arenas-commons-2015.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "alt": "David Ortega Arenas Vermögen 2026 – Portrait (Commons 2015)",
+          "caption": "Porträt 2015. Wikimedia Commons, CC BY-SA 3.0.",
+          "credit": "Maria Esperanza Ortega Arenas",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Ortega_Arenas.jpg"
+        },
+        {
+          "file": "leere-wohnung-illustrativ.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "David Ortega Arenas Vermögen 2026 – Symbolbild karge Wohnung",
+          "credit": "Unsplash License. Symbolbild, nicht die Wohnung von David Ortega Arenas.",
+          "sourceUrl": "https://unsplash.com/photos/1493809842364-78817add7ffb"
+        },
+        {
+          "file": "ringlicht-stream-illustrativ.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "David Ortega Arenas – Symbolbild Smartphone-Livestream und Ringlicht-Ästhetik",
+          "credit": "Unsplash License. Symbolbild, kein dokumentierter Stream.",
+          "sourceUrl": "https://unsplash.com/photos/1611162616475-46b635cb6868"
+        },
+        {
+          "file": "dj-buehne-past-illustrativ.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "David Ortega Arenas – Symbolbild DJ- und Bühnenvergangenheit",
+          "credit": "Unsplash License. Symbolbild, kein konkreter Auftritt.",
+          "sourceUrl": "https://unsplash.com/photos/1470229722913-7c0e2dbbafd3"
+        },
+        {
+          "file": "dunkler-laptop-stream-illustrativ.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "David Ortega Arenas – Symbolbild dunkler Laptop-Stream",
+          "credit": "Unsplash License. Symbolbild.",
+          "sourceUrl": "https://unsplash.com/photos/1486312338219-ce68d2c6f44d"
+        },
+        {
+          "file": "ringlicht-dunkel-illustrativ.jpg",
+          "placement": "mid",
+          "illustrative": true,
+          "alt": "David Ortega Arenas – Symbolbild Studio-Licht",
+          "credit": "Unsplash License. Symbolbild.",
+          "sourceUrl": "https://unsplash.com/photos/1598488035139-bdbb2231ce04"
+        }
+      ]
+    }
+  ]
+}

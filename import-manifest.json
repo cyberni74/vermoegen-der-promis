@@ -180,6 +180,55 @@
       "estimate": "5 bis 12 Millionen Euro"
     },
     {
+      "slug": "david-ortega-arenas",
+      "sourceMd": "/workspace/articles/david-ortega-arenas-vermoegen-2026.md",
+      "targetMd": "content/articles/david-ortega-arenas-vermoegen-2026.md",
+      "title": "David Ortega Arenas Vermögen 2026: Absturz, TikTok-Lives & die Maske",
+      "category": "Influencer",
+      "description": "Einst TV-Star und DJ, heute TikTok und knappe Kasse: David Ortega Arenas Vermögen 2026 – Fakten, Pfändung, Feature-Erzählung. ~800 € nur als Story-Stand, keine Bilanz.",
+      "heroImage": "public/images/david-ortega-arenas/david-ortega-arenas-commons-2015.jpg",
+      "images": [
+        {
+          "file": "david-ortega-arenas-commons-2015.jpg",
+          "placement": "hero",
+          "illustrative": false
+        },
+        {
+          "file": "leere-wohnung-illustrativ.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "ringlicht-stream-illustrativ.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "dj-buehne-past-illustrativ.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "dunkler-laptop-stream-illustrativ.jpg",
+          "placement": "mid",
+          "illustrative": true
+        },
+        {
+          "file": "ringlicht-dunkel-illustrativ.jpg",
+          "placement": "mid",
+          "illustrative": true
+        }
+      ],
+      "illustrativeOnly": false,
+      "warnings": [
+        "~800 € = narrative Stand-Schätzung/Feature, keine amtliche Bilanz",
+        "Hero Commons CC BY-SA 3.0 – Attribution sichtbar halten",
+        "Feature-Dramaturgie klar von Presse-Fakten trennen"
+      ],
+      "missingImages": false,
+      "estimate": "~800 € (narrativer Story-Stand, keine Bilanz)"
+    },
+    {
       "slug": "dfaguimba",
       "sourceMd": "/workspace/articles/dfaguimba-vermoegen-2026.md",
       "targetMd": "content/articles/dfaguimba-vermoegen-2026.md",

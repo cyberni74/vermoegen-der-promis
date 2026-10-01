@@ -78,6 +78,9 @@ export default async function ArticlePage({ params }: Props) {
             Schätzung Nettovermögen 2026
           </p>
           <p className="mt-1 font-serif text-3xl text-ink">{article.estimate}</p>
+          {article.estimateNote ? (
+            <p className="mt-2 text-sm leading-6 text-muted">{article.estimateNote}</p>
+          ) : null}
         </aside>
       ) : null}
       <div className="mt-4">

@@ -140,6 +140,10 @@ function wrapTables(html: string): string {
     .replace(/<\/table>/g, "</table></div>");
 }
 
+function lazyContentImages(html: string): string {
+  return html.replace(/<img\b(?![^>]*\bloading=)/g, '<img loading="lazy" ');
+}
+
 export function renderMarkdown(markdown: string, phrases: LinkPhrase[]): string {
   const body = extractFaqPage(markdown).markdown.replace(/^#\s+[^\n]+\n+/, "");
   const file = unified()
@@ -149,7 +153,9 @@ export function renderMarkdown(markdown: string, phrases: LinkPhrase[]): string 
     .use(rehypeSlug)
     .use(rehypeStringify)
     .processSync(body);
-  return wrapTables(externalizeLinks(autolinkHtml(String(file), compilePhrases(phrases))));
+  return lazyContentImages(
+    wrapTables(externalizeLinks(autolinkHtml(String(file), compilePhrases(phrases)))),
+  );
 }
 
 export function firstBoldLead(markdown: string): string {
