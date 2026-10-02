@@ -1,0 +1,68 @@
+{
+  "articles": [
+    {
+      "slug": "apache-207",
+      "targetMd": "content/articles/apache-207-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 22 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Apache 207"
+    },
+    {
+      "slug": "jochen-schweizer",
+      "targetMd": "content/articles/jochen-schweizer-vermoegen-2026.md",
+      "category": "Unternehmer",
+      "estimate": "rund 85 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Jochen Schweizer"
+    },
+    {
+      "slug": "judith-williams",
+      "targetMd": "content/articles/judith-williams-vermoegen-2026.md",
+      "category": "Unternehmer",
+      "estimate": "rund 40 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Judith Williams"
+    },
+    {
+      "slug": "mark-forster",
+      "targetMd": "content/articles/mark-forster-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 10 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Mark Forster"
+    },
+    {
+      "slug": "michael-wendler",
+      "targetMd": "content/articles/michael-wendler-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 1 Million Euro",
+      "illustrativeOnly": true,
+      "person": "Michael Wendler"
+    },
+    {
+      "slug": "nils-glagau",
+      "targetMd": "content/articles/nils-glagau-vermoegen-2026.md",
+      "category": "Unternehmer",
+      "estimate": "rund 150 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Nils Glagau"
+    },
+    {
+      "slug": "peter-maffay",
+      "targetMd": "content/articles/peter-maffay-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 40 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Peter Maffay"
+    },
+    {
+      "slug": "raf-camora",
+      "targetMd": "content/articles/raf-camora-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 60 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "RAF Camora"
+    }
+  ]
+}
