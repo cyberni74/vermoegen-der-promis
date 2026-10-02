@@ -24,8 +24,16 @@
       "targetMd": "content/articles/capital-bra-vermoegen-2026.md",
       "category": "Musiker",
       "estimate": "rund 20 Millionen Euro",
-      "illustrativeOnly": true,
-      "person": "Capital Bra"
+      "illustrativeOnly": false,
+      "person": "Capital Bra",
+      "heroFile": "portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        }
+      ]
     },
     {
       "slug": "caro-daur",

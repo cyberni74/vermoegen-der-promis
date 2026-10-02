@@ -1,6 +1,6 @@
 {
   "site": "Vermoegen der Promis",
-  "generated": "2026-10-02T17:30:00+00:00",
+  "generated": "2026-10-02T17:45:00+00:00",
   "conventions": {
     "markdownTarget": "content/articles/",
     "imagesTarget": "public/images/{slug}/",
@@ -1613,12 +1613,17 @@
       "title": "Capital Bra Vermögen 2026: Chart-Maschine mit Millionen-Schätzung",
       "category": "Musiker",
       "description": "Capital Bra Vermögen 2026: Rekord-Charts, Label und BraTee – so reich schätzen Medien den Deutschrap-Star.",
-      "images": [],
-      "illustrativeOnly": true,
-      "warnings": [
-        "Kein Porträt im Import; kein Symbolbild, weil keine belegte Bildquelle vorliegt."
+      "heroImage": "public/images/capital-bra/portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        }
       ],
-      "missingImages": true,
+      "illustrativeOnly": false,
+      "warnings": [],
+      "missingImages": false,
       "estimate": "rund 20 Millionen Euro"
     },
     {
@@ -1900,6 +1905,126 @@
       ],
       "missingImages": true,
       "estimate": "rund 18 Millionen Euro"
+    },
+    {
+      "slug": "apache-207",
+      "sourceMd": "uploads/repo-ready-30-37/apache-207-vermoegen-2026.md",
+      "targetMd": "content/articles/apache-207-vermoegen-2026.md",
+      "title": "Apache 207 Vermögen 2026: Streaming-Star aus Mannheim",
+      "category": "Musiker",
+      "description": "Apache 207 Vermögen 2026: Roller, Hallentourneen und Label – so reich schätzen Medien den Rapper Volkan Yaman.",
+      "images": [],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein Porträt im Import; kein Symbolbild, weil keine belegte Bildquelle vorliegt."
+      ],
+      "missingImages": true,
+      "estimate": "rund 22 Millionen Euro"
+    },
+    {
+      "slug": "jochen-schweizer",
+      "sourceMd": "uploads/repo-ready-30-37/jochen-schweizer-vermoegen-2026.md",
+      "targetMd": "content/articles/jochen-schweizer-vermoegen-2026.md",
+      "title": "Jochen Schweizer Vermögen 2026: Erlebnis-König nach dem großen Exit",
+      "category": "Unternehmer",
+      "description": "Jochen Schweizer Vermögen 2026: ProSieben-Deal, Arena und Marke – so reich schätzen Medien den Extremsport-Unternehmer.",
+      "images": [],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein Porträt im Import; kein Symbolbild, weil keine belegte Bildquelle vorliegt."
+      ],
+      "missingImages": true,
+      "estimate": "rund 85 Millionen Euro"
+    },
+    {
+      "slug": "judith-williams",
+      "sourceMd": "uploads/repo-ready-30-37/judith-williams-vermoegen-2026.md",
+      "targetMd": "content/articles/judith-williams-vermoegen-2026.md",
+      "title": "Judith Williams Vermögen 2026: Teleshopping-Queen und DHDL-Löwin",
+      "category": "Unternehmer",
+      "description": "Judith Williams Vermögen 2026: Kosmetik, HSE und Höhle der Löwen – so reich schätzen Medien die Unternehmerin.",
+      "images": [],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein Porträt im Import; kein Symbolbild, weil keine belegte Bildquelle vorliegt."
+      ],
+      "missingImages": true,
+      "estimate": "rund 40 Millionen Euro"
+    },
+    {
+      "slug": "mark-forster",
+      "sourceMd": "uploads/repo-ready-30-37/mark-forster-vermoegen-2026.md",
+      "targetMd": "content/articles/mark-forster-vermoegen-2026.md",
+      "title": "Mark Forster Vermögen 2026: Popstimme zwischen Charts und The Voice",
+      "category": "Musiker",
+      "description": "Mark Forster Vermögen 2026: Hits, Tourneen und Casting-TV – so reich schätzen Medien den Kaiserslauterer Popstar.",
+      "images": [],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein Porträt im Import; kein Symbolbild, weil keine belegte Bildquelle vorliegt."
+      ],
+      "missingImages": true,
+      "estimate": "rund 10 Millionen Euro"
+    },
+    {
+      "slug": "michael-wendler",
+      "sourceMd": "uploads/repo-ready-30-37/michael-wendler-vermoegen-2026.md",
+      "targetMd": "content/articles/michael-wendler-vermoegen-2026.md",
+      "title": "Michael Wendler Vermögen 2026: Schlager, Skandale und Steuerschulden",
+      "category": "Musiker",
+      "description": "Michael Wendler Vermögen 2026: Zwischen Florida-Inszenierung, Steuerschulden und Comeback-Versuchen – fair eingeordnet.",
+      "images": [],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein Porträt im Import; kein Symbolbild, weil keine belegte Bildquelle vorliegt."
+      ],
+      "missingImages": true,
+      "estimate": "rund 1 Million Euro"
+    },
+    {
+      "slug": "nils-glagau",
+      "sourceMd": "uploads/repo-ready-30-37/nils-glagau-vermoegen-2026.md",
+      "targetMd": "content/articles/nils-glagau-vermoegen-2026.md",
+      "title": "Nils Glagau Vermögen 2026: Orthomol-Chef und Ex-DHDL-Löwe",
+      "category": "Unternehmer",
+      "description": "Nils Glagau Vermögen 2026: Orthomol, Apothekenvertrieb und Löwen-Investments – so reich schätzen Medien den Unternehmer.",
+      "images": [],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein Porträt im Import; kein Symbolbild, weil keine belegte Bildquelle vorliegt."
+      ],
+      "missingImages": true,
+      "estimate": "rund 150 Millionen Euro"
+    },
+    {
+      "slug": "peter-maffay",
+      "sourceMd": "uploads/repo-ready-30-37/peter-maffay-vermoegen-2026.md",
+      "targetMd": "content/articles/peter-maffay-vermoegen-2026.md",
+      "title": "Peter Maffay Vermögen 2026: Rock-Legende mit Tabaluga und Tourneen",
+      "category": "Musiker",
+      "description": "Peter Maffay Vermögen 2026: Jahrzehnte Charts, Tabaluga und Live – so reich schätzen Medien die deutschsprachige Rock-Ikone.",
+      "images": [],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein Porträt im Import; kein Symbolbild, weil keine belegte Bildquelle vorliegt."
+      ],
+      "missingImages": true,
+      "estimate": "rund 40 Millionen Euro"
+    },
+    {
+      "slug": "raf-camora",
+      "sourceMd": "uploads/repo-ready-30-37/raf-camora-vermoegen-2026.md",
+      "targetMd": "content/articles/raf-camora-vermoegen-2026.md",
+      "title": "RAF Camora Vermögen 2026: Rap-Unternehmer zwischen Charts und Business",
+      "category": "Musiker",
+      "description": "RAF Camora Vermögen 2026: Hits, Label und Investments – so reich schätzen Medien den österreichischen Rap-Star.",
+      "images": [],
+      "illustrativeOnly": true,
+      "warnings": [
+        "Kein Porträt im Import; kein Symbolbild, weil keine belegte Bildquelle vorliegt."
+      ],
+      "missingImages": true,
+      "estimate": "rund 60 Millionen Euro"
     }
   ],
   "orphanedImagePacks": [
@@ -2420,6 +2545,38 @@
       {
         "from": "uploads/repo-ready-articles/xavier-naidoo-vermoegen-2026.md",
         "to": "content/articles/xavier-naidoo-vermoegen-2026.md"
+      },
+      {
+        "from": "uploads/repo-ready-30-37/apache-207-vermoegen-2026.md",
+        "to": "content/articles/apache-207-vermoegen-2026.md"
+      },
+      {
+        "from": "uploads/repo-ready-30-37/jochen-schweizer-vermoegen-2026.md",
+        "to": "content/articles/jochen-schweizer-vermoegen-2026.md"
+      },
+      {
+        "from": "uploads/repo-ready-30-37/judith-williams-vermoegen-2026.md",
+        "to": "content/articles/judith-williams-vermoegen-2026.md"
+      },
+      {
+        "from": "uploads/repo-ready-30-37/mark-forster-vermoegen-2026.md",
+        "to": "content/articles/mark-forster-vermoegen-2026.md"
+      },
+      {
+        "from": "uploads/repo-ready-30-37/michael-wendler-vermoegen-2026.md",
+        "to": "content/articles/michael-wendler-vermoegen-2026.md"
+      },
+      {
+        "from": "uploads/repo-ready-30-37/nils-glagau-vermoegen-2026.md",
+        "to": "content/articles/nils-glagau-vermoegen-2026.md"
+      },
+      {
+        "from": "uploads/repo-ready-30-37/peter-maffay-vermoegen-2026.md",
+        "to": "content/articles/peter-maffay-vermoegen-2026.md"
+      },
+      {
+        "from": "uploads/repo-ready-30-37/raf-camora-vermoegen-2026.md",
+        "to": "content/articles/raf-camora-vermoegen-2026.md"
       }
     ],
     "images": [
@@ -2672,6 +2829,11 @@
         "from": "uploads/repo-images-small/toni-kroos/portrait.jpg",
         "to": "public/images/toni-kroos/",
         "slug": "toni-kroos"
+      },
+      {
+        "from": "uploads/capital-bra/portrait.jpg",
+        "to": "public/images/capital-bra/",
+        "slug": "capital-bra"
       }
     ],
     "orphanedImagesNote": "orphanedImagePacks are NOT in copyPlan; import separately if legacy celeb pages are rebuilt"
