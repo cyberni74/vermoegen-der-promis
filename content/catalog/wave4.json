@@ -1,0 +1,228 @@
+{
+  "articles": [
+    {
+      "slug": "bushido",
+      "targetMd": "content/articles/bushido-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 35 Millionen Euro",
+      "illustrativeOnly": false,
+      "person": "Bushido",
+      "heroFile": "portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "credit": "Schlappal",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "slug": "capital-bra",
+      "targetMd": "content/articles/capital-bra-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 20 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Capital Bra"
+    },
+    {
+      "slug": "caro-daur",
+      "targetMd": "content/articles/caro-daur-vermoegen-2026.md",
+      "category": "Unternehmer",
+      "estimate": "rund 8 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Caro Daur"
+    },
+    {
+      "slug": "dieter-bohlen",
+      "targetMd": "content/articles/dieter-bohlen-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "135 Millionen Euro",
+      "illustrativeOnly": false,
+      "person": "Dieter Bohlen",
+      "heroFile": "portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "slug": "frank-thelen",
+      "targetMd": "content/articles/frank-thelen-vermoegen-2026.md",
+      "category": "Unternehmer",
+      "estimate": "35 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Frank Thelen"
+    },
+    {
+      "slug": "heidi-klum",
+      "targetMd": "content/articles/heidi-klum-vermoegen-2026.md",
+      "category": "Unternehmer",
+      "estimate": "rund 150 Millionen Euro",
+      "illustrativeOnly": false,
+      "person": "Heidi Klum",
+      "heroFile": "portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "credit": "Glenn Francis / Pacific Pro Digital Photography"
+        }
+      ]
+    },
+    {
+      "slug": "helene-fischer",
+      "targetMd": "content/articles/helene-fischer-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 38 Millionen Euro",
+      "illustrativeOnly": false,
+      "person": "Helene Fischer",
+      "heroFile": "portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "slug": "julien-bam",
+      "targetMd": "content/articles/julien-bam-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "etwa 30 Millionen Euro",
+      "illustrativeOnly": false,
+      "person": "Julien Bam",
+      "heroFile": "portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "slug": "lisa-und-lena",
+      "targetMd": "content/articles/lisa-und-lena-vermoegen-2026.md",
+      "category": "Influencer",
+      "estimate": "rund 35 Millionen Euro",
+      "illustrativeOnly": false,
+      "person": "Lisa und Lena",
+      "heroFile": "portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "slug": "nena",
+      "targetMd": "content/articles/nena-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 15 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Nena"
+    },
+    {
+      "slug": "ralf-duemmel",
+      "targetMd": "content/articles/ralf-duemmel-vermoegen-2026.md",
+      "category": "Unternehmer",
+      "estimate": "rund 85 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Ralf Dümmel"
+    },
+    {
+      "slug": "roland-kaiser",
+      "targetMd": "content/articles/roland-kaiser-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 55 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Roland Kaiser"
+    },
+    {
+      "slug": "sarah-connor",
+      "targetMd": "content/articles/sarah-connor-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 35 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Sarah Connor"
+    },
+    {
+      "slug": "shirin-david",
+      "targetMd": "content/articles/shirin-david-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 55 Millionen Euro",
+      "illustrativeOnly": false,
+      "person": "Shirin David",
+      "heroFile": "portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "slug": "til-schweiger",
+      "targetMd": "content/articles/til-schweiger-vermoegen-2026.md",
+      "category": "Schauspieler",
+      "estimate": "rund 40 Millionen Euro",
+      "illustrativeOnly": false,
+      "person": "Til Schweiger",
+      "heroFile": "portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "credit": "Stefan Brending",
+          "sourceUrl": "https://www.2eight.de"
+        }
+      ]
+    },
+    {
+      "slug": "toni-kroos",
+      "targetMd": "content/articles/toni-kroos-vermoegen-2026.md",
+      "category": "Sport",
+      "estimate": "rund 80 Millionen Euro",
+      "illustrativeOnly": false,
+      "person": "Toni Kroos",
+      "heroFile": "portrait.jpg",
+      "images": [
+        {
+          "file": "portrait.jpg",
+          "placement": "hero",
+          "illustrative": false,
+          "credit": "Anish Morarji",
+          "license": "Creative Commons"
+        }
+      ]
+    },
+    {
+      "slug": "udo-lindenberg",
+      "targetMd": "content/articles/udo-lindenberg-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 45 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Udo Lindenberg"
+    },
+    {
+      "slug": "xavier-naidoo",
+      "targetMd": "content/articles/xavier-naidoo-vermoegen-2026.md",
+      "category": "Musiker",
+      "estimate": "rund 18 Millionen Euro",
+      "illustrativeOnly": true,
+      "person": "Xavier Naidoo"
+    }
+  ]
+}
